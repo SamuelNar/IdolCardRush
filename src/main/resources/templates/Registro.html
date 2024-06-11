@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="es" xmlns:th="http://www.thymeleaf.org">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/registro.css">
+  <title>Document</title>
+</head>
+
+<body>
+  <form th:action="@{/registro}" method="post" class="custom-form">
+    <div class="">
+      <h1 class="">Registrarse</h1>
+      <p class="">Ingrese su información para crear una cuenta</p>
+    </div>
+    <div class="space-y-2">
+      <label class="block" for="name">
+        Nombre
+      </label>
+      <input class="" id="name" name="name" placeholder="Nombre" required type="text" th:value="${name}" />
+    </div>
+    <div class="space-y-2">
+      <label class="" for="email">
+        Correo electrónico
+      </label>
+      <input class="0" id="email" name="email" placeholder="Correo" required type="email" th:value="${email}" />
+    </div>
+    <div class="">
+      <label class="" for="password">
+        Contraseña
+      </label>
+      <input class="" id="password" name="password" placeholder="Contraseña" required type="password" />
+    </div>
+    <div class="">
+      <label class="" for="password">
+        Contraseña
+      </label>
+      <input class="" id="password" name="password2" placeholder="Repita Contraseña" required type="password" />
+    </div>
+
+    <div class="button-container">
+      <button type="submit">
+        Registrarse
+      </button>
+      <a th:href="@{/}">
+        Volver
+      </a>
+    </div>
+    <a th:href="@{/login}">¿Ya tienes una cuenta?</a>
+  </form>
+</body>
+
+</html>

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>   
+    <link rel="stylesheet" href="/css/Usuario.css">
+</head>
+
+<body>
+    <nav>
+        <div class="title">Idol Rush</div>
+        <div class="menu-btn">
+            <input type="checkbox" id="menu-toggle">
+            <label for="menu-toggle" class="menu-icon">&#9776;</label>
+            <ul class="menu">
+                <li><a href="#">Mercado</a></li>
+                <li>
+                    <a th:if="${session.usuariosession != null}"
+                        th:href="@{/user/perfil/__${session.usuariosession.id}__}">Ver perfil</a>
+                </li>
+                <li><a th:href="@{/logout}">Cerrar sesión</a></li>
+            </ul>
+        </div>
+    </nav>
+    <div class="containerButton">
+        <form class="Dropeo" th:action="@{/user/asignarCarta}" method="post">
+            <button class="animation" type="submit">
+                Drop de carta
+            </button>
+        </form>
+        <form th:action="@{/user/preguntas}" method="get">
+            <button class="animation" type="submit">
+                Preguntas
+            </button>
+        </form>
+        <form th:action="@{/user/work}" method="post">
+            <button class="animation" type="submit">
+                Work
+            </button>
+        </form>
+    </div>
+</body>
+
+</html>

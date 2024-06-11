@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista de Cartas</title>
+    <link rel="stylesheet" href="/css/cartas.css">
+</head>
+
+<body>
+    <h1 style="color: white; text-align: center;">Lista de Cartas</h1>
+    <div class="filter-container">
+        <form method="get" action="/user/cartas" class="filter-form">
+            <div class="filter-group">
+                <label for="idolName">Idol Name:</label>
+                <input type="text" id="idolName" name="idolName" class="filter-input">
+            </div>
+            <div class="filter-group">
+                <label for="era">Era:</label>
+                <input type="text" id="era" name="era" class="filter-input">
+            </div>
+            <div class="filter-group">
+                <label for="groupKpop">Group Kpop:</label>
+                <input type="text" id="groupKpop" name="groupKpop" class="filter-input">
+            </div>
+            <button type="submit" class="filter-button">Filtrar</button>
+        </form>
+    </div>
+    <div class="container">
+        <div class="card-row">
+            <div class="card" th:each="carta : ${cartas}">
+                <div class="content">
+                    <div class="card-item">
+                        <img class="aspect" th:src="@{/images/{rutaImagen}(rutaImagen=${carta.urlImage})}"
+                            alt="Imagen del idol">
+                        <div th:text="${carta.groupKpop}" class="text"></div>
+                        <div th:text="${carta.idolName}" class="text"></div>
+                        <div th:text="'Era: ' + ${carta.era}" class="text"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div th:if="${totalPages > 1}" class="pagination">
+        <a th:href="@{${baseUrl}(page=0, idolName=${idolName}, era=${era}, groupKpop=${groupKpop})}"
+            th:if="${currentPage > 0}">&laquo; Primera</a>
+        <a th:href="@{${baseUrl}(page=${currentPage - 1}, idolName=${idolName}, era=${era}, groupKpop=${groupKpop})}"
+            th:if="${currentPage > 0}">&lsaquo; Anterior</a>
+        <span th:text="${currentPage + 1} + ' de ' + ${totalPages}"></span>
+        <a th:href="@{${baseUrl}(page=${currentPage + 1}, idolName=${idolName}, era=${era}, groupKpop=${groupKpop})}"
+            th:if="${currentPage < totalPages - 1}">Siguiente &rsaquo;</a>
+        <a th:href="@{${baseUrl}(page=${totalPages - 1}, idolName=${idolName}, era=${era}, groupKpop=${groupKpop})}"
+            th:if="${currentPage < totalPages - 1}">Última &raquo;</a>
+    </div>
+</body>
+
+</html>

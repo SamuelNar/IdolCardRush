@@ -1,0 +1,112 @@
+[        
+        {
+          "pregunta": "¿Cuál es el nombre del grupo femenino de K-pop conocido por su éxito con 'Ddu-Du Ddu-Du'?",
+          "opciones": ["TWICE", "MAMAMOO", "RED VELVET", "BLACKPINK"],
+          "respuesta_correcta": "BLACKPINK"
+        },
+        {
+          "pregunta": "¿Quién es conocido como el 'Rey del K-pop'?",
+          "opciones": ["G-Dragon", "Kai", "Taemin", "RM"],
+          "respuesta_correcta": "G-Dragon"
+        },
+        {
+            "pregunta": "¿Qué grupo de K-pop debutó con la canción 'Fantastic Baby'?",
+            "opciones": ["BIGBANG", "EXO", "BTS", "GOT7"],
+            "respuesta_correcta": "BIGBANG"
+          },
+          {
+            "pregunta": "¿Cuál es el nombre del líder de BTS?",
+            "opciones": ["Jin", "Suga", "RM", "J-Hope"],
+            "respuesta_correcta": "RM"
+          },
+          {
+            "pregunta": "¿Qué agencia de entretenimiento representa a grupos como EXO, Red Velvet y NCT?",
+            "opciones": ["YG Entertainment", "SM Entertainment", "JYP Entertainment", "Big Hit Entertainment"],
+            "respuesta_correcta": "SM Entertainment"
+          },
+          {
+            "pregunta": "¿Cuál de estos grupos debutó primero?",
+            "opciones": ["TWICE", "BLACKPINK", "Red Velvet", "GFRIEND"],
+            "respuesta_correcta": "Red Velvet"
+          },
+          {
+            "pregunta": "¿Qué grupo de K-pop es conocido por su concepto 'Concept Kings'?",
+            "opciones": ["EXO", "NCT", "GOT7", "Stray Kids"],
+            "respuesta_correcta": "EXO"
+          },
+          {
+            "pregunta": "¿Cuál es el grupo femenino conocido por su canción 'I Am the Best'?",
+            "opciones": ["MAMAMOO", "2NE1", "Girls' Generation", "Apink"],
+            "respuesta_correcta": "2NE1"
+          },
+          {
+            "pregunta": "¿Quién es conocido como 'El Príncipe del K-pop'?",
+            "opciones": ["Kai", "Taemin", "Jackson", "Jungkook"],
+            "respuesta_correcta": "Taemin"
+          },
+          {
+            "pregunta": "¿Qué grupo de K-pop es conocido por su canción 'Growl'?",
+            "opciones": ["BTS", "EXO", "SEVENTEEN", "GOT7"],
+            "respuesta_correcta": "EXO"
+          },
+          {
+            "pregunta": "¿Cuál es el nombre del fandom de BLACKPINK?",
+            "opciones": ["ARMY", "BLINK", "ONCE", "Buddy"],
+            "respuesta_correcta": "BLINK"
+          },
+          {
+            "pregunta": "¿Qué miembro de BTS es conocido por su habilidad para la producción musical?",
+            "opciones": ["V", "Jungkook", "Suga", "J-Hope"],
+            "respuesta_correcta": "Suga"
+          },
+          {
+            "pregunta": "¿Cuál de estos grupos debutó primero?",
+            "opciones": ["ITZY", "MAMAMOO", "GFRIEND", "TWICE"],
+            "respuesta_correcta": "MAMAMOO"
+          },
+          {
+            "pregunta": "¿Cuál es el nombre del líder de EXO?",
+            "opciones": ["Suho", "Baekhyun", "Kai", "Chen"],
+            "respuesta_correcta": "Suho"
+          },
+          {
+            "pregunta": "¿Qué grupo de K-pop es conocido por su concepto 'Love Yourself'?",
+            "opciones": ["GOT7", "SEVENTEEN", "MONSTA X", "BTS"],
+            "respuesta_correcta": "BTS"
+          },
+          {
+            "pregunta": "¿Cuál es el nombre del fandom de BTS?",
+            "opciones": ["VIP", "Blink", "ARMY", "Once"],
+            "respuesta_correcta": "ARMY"
+          },
+          {
+            "pregunta": "¿Cuál de estos grupos es conocido por su canción 'Cheer Up'?",
+            "opciones": ["GFRIEND", "TWICE", "MOMOLAND", "ITZY"],
+            "respuesta_correcta": "TWICE"
+          },
+          {
+            "pregunta": "¿Quién es el líder de GOT7?",
+            "opciones": ["Jackson", "Mark", "JB", "Jinyoung"],
+            "respuesta_correcta": "JB"
+          },
+          {
+            "pregunta": "¿Cuál de estos grupos debutó primero?",
+            "opciones": ["TXT", "Stray Kids", "ATEEZ", "NCT"],
+            "respuesta_correcta": "NCT"
+          },
+          {
+            "pregunta": "¿Cuál es el nombre del fandom de Stray Kids?",
+            "opciones": ["Stay", "Monbebe", "Carat", "Atiny"],
+            "respuesta_correcta": "Stay"
+          },
+          {
+            "pregunta": "¿Quién es el líder de TWICE?",
+            "opciones": ["Nayeon", "Momo", "Jihyo", "Sana"],
+            "respuesta_correcta": "Jihyo"
+          },
+          {
+            "pregunta": "¿Cuál de estos grupos debutó primero?",
+            "opciones": ["OH MY GIRL", "Dreamcatcher", "MOMOLAND", "Red Velvet"],
+            "respuesta_correcta": "Red Velvet"
+          }
+]

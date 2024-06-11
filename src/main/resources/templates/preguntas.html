@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Preguntas</title>
+    <link rel="stylesheet" href="/css/preguntas.css"></link>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>;
+</head>
+
+<body>
+    <h2>Preguntas sobre K-pop</h2>
+    <form th:action="@{/user/verificarRespuesta}" method="post" class="animate__animated animate__slideInDown">
+        <p th:text="${preguntas.pregunta}"></p>
+        <ul>
+            <li th:each="opcion : ${preguntas.opciones}">
+                <input type="radio" th:value="${opcion}" th:name="opcionElegida">
+                <span th:text="${opcion}"></span><br>
+            </li>
+        </ul>
+        <button type="submit">Enviar respuesta</button>
+    </form>
+</body>
+
+</html>

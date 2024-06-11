@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Idol Card Rush</title>
+    <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="css/index.css">
+</head>
+
+<body>
+    <main>
+        <div th:if="${exito}" style="color: green;">
+            <p th:text="${exito}"></p>
+        </div>       
+        <div th:if="${error}" style="color: red;">
+            <p th:text="${error}"></p>
+        </div>
+        <h1>Idol Card Rush</h1>
+        <div class="containerText">
+            <a href="/registrar">
+                <p>Consigue la carta de tu idol preferida</p>
+            </a>
+        </div>
+        <div class="containerimg">
+            <img src="images/LEE1.gif">
+            <img src="images/GIMS1.gif">
+            <img src="images/MSR.gif">
+            <img src="images/GTO2.gif">
+        </div>
+
+    </main>
+</body>
+
+</html>

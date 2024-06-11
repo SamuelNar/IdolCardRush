@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perfil Filtrado</title>
+    <style>
+      body {
+            background-color: #000;
+            color: white;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container-perfil {
+            padding: 20px;
+        }
+
+        .item-card-perfil {
+            margin-bottom: 20px;
+        }
+
+        .item-card-informacionContacto-container {
+            background-color: #333;
+            padding: 20px;
+            border-radius: 10px;
+        }
+
+        h4 {
+            margin: 0 0 10px 0;
+        }
+
+        .item_parrafo {
+            margin: 10px 0;
+        }
+
+        form {
+            margin: 20px 0;
+        }
+
+        form label {
+            margin-right: 10px;
+        }
+
+        form input {
+            margin-right: 10px;
+            padding: 5px;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+        }
+
+        form button {
+            padding: 5px 10px;
+            border: none;
+            background-color: #007bff;
+            color: white;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .contenedor {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .card {
+            background-color: #444;
+            margin: 10px;
+            padding: 10px;
+            border-radius: 10px;
+            text-align: center;
+            width: 200px;
+        }
+
+        .card img {
+            width: 100%;
+            height: auto;
+            border-radius: 10px;
+        }
+
+        .pagination {
+            text-align: center;
+            margin: 20px 0;
+        }
+
+        .pagination a {
+            color: #007bff;
+            margin: 0 5px;
+            text-decoration: none;
+        }
+
+        .pagination span {
+            color: white !important;
+        }
+
+        .btn-volver {
+            display: inline-block;
+            padding: 10px 20px;
+            margin: 20px 0;
+            color: white;
+            background-color: #007bff;
+            border-radius: 5px;
+            text-decoration: none;
+        }
+
+        .btn-volver:hover {
+            background-color: #0056b3;
+        }
+
+        .error {
+            color: red;
+            background-color: #333;
+            padding: 10px;
+            border-radius: 5px;
+            text-align: center;
+            margin: 20px 0;
+        }
+        .btn{
+            padding: 5px 10px;
+            text-decoration: none;
+            border: none;
+            background-color: #007bff;
+            color: white;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+    </style>
+
+</head>
+
+<body>
+    <h2>Perfil Filtrado</h2>
+    <!-- Mostrar los filtros aplicados -->
+    <form method="get" th:action="@{/user/perfil/filtrar}">
+        <label for="idolName">Idol Name:</label>
+        <input type="text" id="idolName" name="idolName" th:value="${idolName}">
+        <label for="era">Era:</label>
+        <input type="text" id="era" name="era" th:value="${era}">
+        <label for="groupKpop">Group Kpop:</label>
+        <input type="text" id="groupKpop" name="groupKpop" th:value="${groupKpop}">
+        <button type="submit">Filtrar</button>
+        <a href="/user/perfil/limpiar" class="btn btn-secondary">Limpiar filtros</a>
+    </form>
+    <!-- Mostrar las cartas filtradas -->
+    <div class="contenedor">
+        <div class="card" th:each="carta : ${userCard}">
+            <img class="aspect" th:src="@{/images/{rutaImagen}(rutaImagen=${carta.urlImage})}" alt="Imagen del idol">
+            <div th:text="${carta.groupKpop}"></div>
+            <div th:text="${carta.idolName}"></div>
+            <div th:text="'Code: ' + ${carta.Code}"></div>
+            <div th:text="'Era: ' + ${carta.era}"></div>
+        </div>
+    </div>
+    <!-- Paginación -->
+    <div th:if="${totalPages > 1}" class="pagination">
+        <a th:href="@{/user/perfil/filtrar(id=${userPerfil.id}, page=0, idolName=${idolName}, era=${era}, groupKpop=${groupKpop})}"
+            th:if="${currentPage > 0}">&laquo; Primera</a>
+        <a th:href="@{/user/perfil/filtrar(id=${userPerfil.id}, page=${currentPage - 1}, idolName=${idolName}, era=${era}, groupKpop=${groupKpop})}"
+            th:if="${currentPage > 0}">&lsaquo; Anterior</a>
+        <span th:text="${currentPage + 1} + ' de ' + ${totalPages}"></span>
+        <a th:href="@{/user/perfil/filtrar(id=${userPerfil.id}, page=${currentPage + 1}, idolName=${idolName}, era=${era}, groupKpop=${groupKpop})}"
+            th:if="${currentPage < totalPages - 1}">Siguiente &rsaquo;</a>
+        <a th:href="@{/user/perfil/filtrar(id=${userPerfil.id}, page=${totalPages - 1}, idolName=${idolName}, era=${era}, groupKpop=${groupKpop})}"
+            th:if="${currentPage < totalPages - 1}">Última &raquo;</a>
+    </div>
+    <a class="btn-volver" th:href="@{/user/panel}">
+        Volver
+    </a>
+
+    <!-- Mensaje de error -->
+    <div id="errorMessage" class="animate__animated error" th:if="${Error}">
+        <p th:text="${Error}"></p>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            var errorMessage = document.getElementById('errorMessage');
+
+            if (errorMessage) {
+                setTimeout(function () {
+                    errorMessage.classList.add('animate__fadeOut');
+                    errorMessage.addEventListener('animationend', function() {
+                        errorMessage.style.display = 'none';
+                    });
+                }, 5000); 
+            }
+        });
+    </script>
+</body>
+</html>

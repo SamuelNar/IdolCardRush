@@ -1,0 +1,123 @@
+body {
+  background-color: black;
+  height: 100vh;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.card-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card {
+  flex: 0 0 25%;
+  /* Ajusta este valor para cambiar el número de tarjetas por fila */
+  max-width: 17%;
+  padding: 10px;
+  box-sizing: border-box;
+  border-radius: 2%;
+  border: 2px solid #e63fe6;
+  margin: 10px;
+  background-color: white;
+  box-shadow: inset 0 0 10px #e63fe6, 0 0 10px #e63fe6;
+}
+
+.card-item {
+  text-align: center;
+  font-size: 40px;
+}
+
+.aspect {
+  width: 100%;
+  height: auto;
+}
+
+.pagination {
+  text-align: center;
+  /* Centra los enlaces de paginación */
+}
+
+.pagination a {
+  display: inline-block;
+  padding: 12px 20px;
+  /* Aumenta el tamaño de los enlaces */
+  text-decoration: none;
+  color: #333;
+  background-color: #f2f2f2;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+  font-size: 16px;
+  /* Aumenta el tamaño de la fuente */
+}
+
+/* Estilo al pasar el cursor sobre los enlaces */
+.pagination a:hover {
+  background-color: #bbb;
+}
+
+/* Estilo para el enlace actual (página actual) */
+.pagination a.active {
+  background-color: #4CAF50;
+  color: white;
+  border: 1px solid #4CAF50;
+}
+
+/* Estilo para el enlace de "Primera" */
+.pagination a:first-child {
+  margin-right: 8px;
+}
+
+/* Estilo para el enlace de "Última" */
+.pagination a:last-child {
+  margin-left: 8px;
+}
+
+.filter-form {
+  display: flex;
+  align-items: center;
+  /* Alinea los elementos verticalmente */
+  justify-content: center;
+  /* Alinea los elementos horizontalmente */
+}
+
+.filter-form label {
+  margin-right: 10px;
+  /* Espacio entre etiquetas y campos de entrada */
+  color: white;
+}
+
+
+.filter-form input,
+.filter-form button {
+  height: 30px;
+  /* Altura de los campos de entrada y el botón */
+  margin-right: 3px;
+  /* Espacio entre campos de entrada */
+}
+
+.filter-form button {
+  background-color: #4CAF50;
+  /* Color de fondo verde */
+  color: white;
+  /* Color del texto blanco */
+  border: none;
+  /* Sin borde */
+  border-radius: 4px;
+  /* Bordes redondeados */
+  cursor: pointer;
+  /* Cambia el cursor al pasar sobre el botón */
+}
+
+.filter-form button:hover {
+  background-color: #45a049;
+  /* Cambia el color de fondo al pasar sobre el botón */
+}
+.filter-button{
+    margin-left: 10px;
+}

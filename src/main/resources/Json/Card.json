@@ -1,0 +1,3892 @@
+[
+    {
+        "idolName": "Eunchae",
+        "era": "Easy",
+        "groupKpop": "Lesserafim",
+        "rarity": 1,
+        "code": "LEEE1",
+        "urlImage": "Garam/Lesserafim/EASY/Eunchae/Eunchae.gif",
+        "fountain": "Garam",
+        "identifirer": "Eunchae_Easy_Lesserafim_Garam_1"
+    },
+    {
+        "idolName": "Kazuha",
+        "era": "Easy",
+        "groupKpop": "Lesserafim",
+        "rarity": 1,
+        "code": "LEKE1",
+        "urlImage": "Garam/Lesserafim/EASY/Kazuha/Kazuha.gif",
+        "fountain": "Garam",
+        "identifirer": "Kazuha_Easy_Lesserafim_Garam_1"
+    },
+    {
+        "idolName": "Chaewon",
+        "era": "Easy",
+        "groupKpop": "Lesserafim",
+        "rarity": 3,
+        "code": "LECE3",
+        "urlImage": "Garam/Lesserafim/EASY/Chaewon/Chaewon3.gif",
+        "fountain": "Garam",
+        "identifirer": "Chaewon_Easy_Lesserafim_Garam_1"
+    },
+    {
+        "idolName": "Eunchae",
+        "era": "Easy",
+        "groupKpop": "Lesserafim",
+        "rarity": 1,
+        "code": "LEEE1",
+        "urlImage": "Kbot/Lesserafim/Easy/Eunchae/Eunchae.png",
+        "fountain": "Kbot",
+        "identifirer": "Eunchae_Easy_Lesserafim_Kbot"
+    },
+    {
+        "idolName": "Kazuha",
+        "era": "Easy",
+        "groupKpop": "Lesserafim",
+        "rarity": 1,
+        "code": "LEKE1",
+        "urlImage": "Kbot/Lesserafim/Easy/Kazuha/Kazuha.png",
+        "fountain": "Kbot",
+        "identifirer": "Kazuha_Easy_Lesserafim_Kbot"
+    },
+    {
+        "idolName": "Garam",
+        "era": "PreDebut",
+        "groupKpop": "Lesserafim",
+        "rarity": 1,
+        "code": "LEGP1",
+        "urlImage": "Kbot/Lesserafim/PreDebut/Garam/Garam.png",
+        "fountain": "Kbot",
+        "identifirer": "Garam_PreDebut_Lesserafim_Kbot"
+    },
+    {
+        "idolName": "Shuhua",
+        "era": "2",
+        "groupKpop": "GIDLE",
+        "rarity": 1,
+        "code": "GIS21",
+        "urlImage": "Garam/Gidle/2/Shuhua/Shuhua.gif",
+        "fountain": "Garam",
+        "identifirer": "Shuhua_2_Gidle_Garam_1"
+    },
+    {
+        "idolName": "Miyeon",
+        "era": "2",
+        "groupKpop": "GIDLE",
+        "rarity": 1,
+        "code": "GIM21",
+        "urlImage": "Garam/Gidle/2/Miyeon/Miyeon.gif",
+        "fountain": "Garam",
+        "identifirer": "Miyeon_2_Gidle_Garam_1"
+    },
+    {
+        "idolName": "Soyeon",
+        "era": "2",
+        "groupKpop": "GIDLE",
+        "rarity": 2,
+        "code": "GISO22",
+        "urlImage": "Garam/Gidle/2/Soyeon/Soyeon2.gif",
+        "fountain": "Garam",
+        "identifirer": "Soyeon_2_Gidle_Garam_2"
+    },
+    {
+        "idolName": "Soyeon",
+        "era": "2",
+        "groupKpop": "GIDLE",
+        "rarity": 1,
+        "code": "GISO21",
+        "urlImage": "Garam/Gidle/2/Soyeon/Soyeon.gif",
+        "fountain": "Garam",
+        "identifirer": "Soyeon_2_Gidle_Garam_1"
+    },
+    {
+        "idolName": "Yuqi",
+        "era": "2",
+        "groupKpop": "GIDLE",
+        "rarity": 1,
+        "code": "GIYU21",
+        "urlImage": "Garam/Gidle/2/Yuqi/Yuqi.gif",
+        "fountain": "Garam",
+        "identifirer": "Yuqi_2_Gidle_Garam_1"
+    },
+    {
+        "idolName": "Minnie",
+        "era": "ITrust",
+        "groupKpop": "GIDLE",
+        "rarity": 1,
+        "code": "GIMI1",
+        "urlImage": "Kbot/Gidle/ITrust/Minnie/Minnie.png",
+        "fountain": "Kbot",
+        "identifirer": "Minnie_ITrust_Gidle_Kbot"
+    },
+    {
+        "idolName": "Winter",
+        "era": "Black Mamba",
+        "groupKpop": "Aespa",
+        "rarity": 1,
+        "code": "AEWB1",
+        "urlImage": "Garam/Aespa/BlackMamba/Winter/Winter.gif",
+        "fountain": "Garam",
+        "identifirer": "Winter_BlackMamba_Aespa_Garam_1"
+    },
+    {
+        "idolName": "Winter",
+        "era": "Black Mamba",
+        "groupKpop": "Aespa",
+        "rarity": 3,
+        "code": "AESWINBLAM3",
+        "urlImage": "Garam/Aespa/BlackMamba/Winter/Winter3.gif",
+        "fountain": "Garam",
+        "identifirer": "Winter_BlackMamba_Aespa_Garam_3"
+    },
+    {
+        "idolName": "Giselle",
+        "era": "Black Mamba",
+        "groupKpop": "Aespa",
+        "rarity": 3,
+        "code": "AESGISBLAM3",
+        "urlImage": "Garam/Aespa/BlackMamba/Giselle/Giselle3.gif",
+        "fountain": "Garam",
+        "identifirer": "Giselle_BlackMamba_Aespa_Garam_3"
+    },
+    {
+        "idolName": "Ningning",
+        "era": "Drama",
+        "groupKpop": "Aespa",
+        "rarity": 1,
+        "code": "AEND1",
+        "urlImage": "Garam/Aespa/Drama/Ningning/Ningning.gif",
+        "fountain": "Garam",
+        "identifirer": "Ningning_Drama_Aespa_Garam_1"
+    },
+    {
+        "idolName": "Karina",
+        "era": "Drama",
+        "groupKpop": "Aespa",
+        "rarity": 1,
+        "code": "AESKARDRA1",
+        "urlImage": "Garam/Aespa/Drama/Karina/Karina.gif",
+        "fountain": "Garam",
+        "identifirer": "Karina_Drama_Aespa_Garam_1"
+    },
+    {
+        "idolName": "Giselle",
+        "era": "Drama",
+        "groupKpop": "Aespa",
+        "rarity": 1,
+        "code": "AESGISDRA1",
+        "urlImage": "Garam/Aespa/Drama/Giselle/Giselle.gif",
+        "fountain": "Garam",
+        "identifirer": "Giselle_Drama_Aespa_Garam_1"
+    },
+    {
+        "idolName": "Ningning",
+        "era": "Dream Come True",
+        "groupKpop": "Aespa",
+        "rarity": 1,
+        "code": "AENDC2",
+        "urlImage": "Garam/Aespa/DreamComeTrue/Ningning/Ningning2.png",
+        "fountain": "Garam",
+        "identifirer": "Ningning_DreamComeTrue_Aespa_Garam_1"
+    },
+    {
+        "idolName": "Karina",
+        "era": "Dream Come True",
+        "groupKpop": "Aespa",
+        "rarity": 1,
+        "code": "AEKDC1",
+        "urlImage": "Garam/Aespa/DreamComeTrue/Karina/Karina.gif",
+        "fountain": "Garam",
+        "identifirer": "Karina_DreamComeTrue_Aespa_Garam_1"
+    },
+    {
+        "idolName": "Karina",
+        "era": "Dream Come True",
+        "groupKpop": "Aespa",
+        "rarity": 1,
+        "code": "AEKDC1PNG",
+        "urlImage": "Garam/Aespa/DreamComeTrue/Karina/Karina.png",
+        "fountain": "Garam",
+        "identifirer": "Karina_DreamComeTrue_Aespa_Garam_1"
+    },
+    {
+        "idolName": "Karina",
+        "era": "Girls",
+        "groupKpop": "Aespa",
+        "rarity": 1,
+        "code": "AEKG1",
+        "urlImage": "Garam/Aespa/Girls/Karina/Karina.gif",
+        "fountain": "Garam",
+        "identifirer": "Karina_Girls_Aespa_Garam_1"
+    },
+    {
+        "idolName": "Winter",
+        "era": "Girls",
+        "groupKpop": "Aespa",
+        "rarity": 1,
+        "code": "AEWG1",
+        "urlImage": "Garam/Aespa/Girls/Winter/Winter.gif",
+        "fountain": "Garam",
+        "identifirer": "Winter_Girls_Aespa_Garam_1"
+    },
+    {
+        "idolName": "Giselle",
+        "era": "Girls",
+        "groupKpop": "Aespa",
+        "rarity": 1,
+        "code": "AEGIG1",
+        "urlImage": "Garam/Aespa/Girls/Giselle/Giselle.gif",
+        "fountain": "Garam",
+        "identifirer": "Giselle_Girls_Aespa_Garam_1"
+    },
+    {
+        "idolName": "Winter",
+        "era": "Halloween",
+        "groupKpop": "Aespa",
+        "rarity": 2,
+        "code": "AEWHA2",
+        "urlImage": "Garam/Aespa/Halloween/Winter/Winter.gif",
+        "fountain": "Garam",
+        "identifirer": "Winter_Halloween_Aespa_Garam_2"
+    },
+    {
+        "idolName": "Ningning",
+        "era": "Halloween",
+        "groupKpop": "Aespa",
+        "rarity": 2,
+        "code": "AENIHA1",
+        "urlImage": "Garam/Aespa/Halloween/Ningning/Ningning.gif",
+        "fountain": "Garam",
+        "identifirer": "Ningning_Halloween_Aespa_Garam_2"
+    },
+    {
+        "idolName": "Karina",
+        "era": "Next Level",
+        "groupKpop": "Aespa",
+        "rarity": 1,
+        "code": "AEKN1",
+        "urlImage": "Garam/Aespa/NextLevel/Karina/Karina.gif",
+        "fountain": "Garam",
+        "identifirer": "Karina_NextLevel_Aespa_Garam_1"
+    },
+    {
+        "idolName": "Karina",
+        "era": "Next Level",
+        "groupKpop": "Aespa",
+        "rarity": 1,
+        "code": "AEKN2",
+        "urlImage": "Garam/Aespa/NextLevel/Karina/Karina2.gif",
+        "fountain": "Garam",
+        "identifirer": "Karina_NextLevel_Aespa_Garam_2"
+    },
+    {
+        "idolName": "Giselle",
+        "era": "Next Level",
+        "groupKpop": "Aespa",
+        "rarity": 3,
+        "code": "AESGISNE3",
+        "urlImage": "Garam/Aespa/NextLevel/Giselle/Giselle3.gif",
+        "fountain": "Garam",
+        "identifirer": "Giselle_NextLevel_Aespa_Garam_3"
+    },
+    {
+        "idolName": "Ningning",
+        "era": "Next Level",
+        "groupKpop": "Aespa",
+        "rarity": 2,
+        "code": "AESNINNE2",
+        "urlImage": "Garam/Aespa/NextLevel/Ningning/Ningning2.gif",
+        "fountain": "Garam",
+        "identifirer": "Ningning_NextLevel_Aespa_Garam_2"
+    },
+    {
+        "idolName": "Winrina",
+        "era": "Ship",
+        "groupKpop": "Aespa",
+        "rarity": 2,
+        "code": "AEWRS1",
+        "urlImage": "Garam/Aespa/Ship/Winrina/Winrina.gif",
+        "fountain": "Garam",
+        "identifirer": "Winrina_Ship_Aespa_Garam_2"
+    },
+    {
+        "idolName": "Lisa",
+        "era": "As If Your Last",
+        "groupKpop": "Black Pink",
+        "rarity": 1,
+        "code": "BPLIAS1",
+        "urlImage": "Garam/BlackPink/AsIfYourLast/Lisa/Lisa.gif",
+        "fountain": "Garam",
+        "identifirer": "Lisa_AsIfYourLast_BlackPink_Garam_1"
+    },
+    {
+        "idolName": "Jisoo",
+        "era": "As If Your Last",
+        "groupKpop": "Black Pink",
+        "rarity": 1,
+        "code": "BPJIAS1",
+        "urlImage": "Garam/BlackPink/AsIfYourLast/Jisoo/Jisoo.gif",
+        "fountain": "Garam",
+        "identifirer": "Jisoo_AsIfYourLast_BlackPink_Garam_1"
+    },
+    {
+        "idolName": "Jennie",
+        "era": "As If Your Last",
+        "groupKpop": "Black Pink",
+        "rarity": 3,
+        "code": "BPJEAS3",
+        "urlImage": "Garam/BlackPink/AsIfYourLast/Jennie/Jennie3.gif",
+        "fountain": "Garam",
+        "identifirer": "Jennie_AsIfYourLast_BlackPink_Garam_3"
+    },
+    {
+        "idolName": "Lisa",
+        "era": "Born Pink",
+        "groupKpop": "Black Pink",
+        "rarity": 1,
+        "code": "BPLB1",
+        "urlImage": "Garam/BlackPink/BornPink/Lisa/Lisa.gif",
+        "fountain": "Garam",
+        "identifirer": "Lisa_BornPink_BlackPink_Garam_1"
+    },
+    {
+        "idolName": "Jisoo",
+        "era": "Born Pink",
+        "groupKpop": "Black Pink",
+        "rarity": 1,
+        "code": "BPJB1",
+        "urlImage": "Garam/BlackPink/BornPink/Jisoo/Jisoo.gif",
+        "fountain": "Garam",
+        "identifirer": "Jisoo_BornPink_BlackPink_Garam_1"
+    },
+    {
+        "idolName": "Jennie",
+        "era": "Born Pink",
+        "groupKpop": "Black Pink",
+        "rarity": 1,
+        "code": "BPJEB3",
+        "urlImage": "Garam/BlackPink/BornPink/Jennie/Jennie3.gif",
+        "fountain": "Garam",
+        "identifirer": "Jennie_BornPink_BlackPink_Garam_3"
+    },
+    {
+        "idolName": "Jisoo",
+        "era": "How You Like That",
+        "groupKpop": "Black Pink",
+        "rarity": 1,
+        "code": "BPJIHO1",
+        "urlImage": "Garam/BlackPink/HowYouLikeThat/Jisoo/Jisoo.gif",
+        "fountain": "Garam",
+        "identifirer": "Jisoo_HowYouLikeThat_BlackPink_Garam_1"
+    },
+    {
+        "idolName": "Jennie",
+        "era": "How You Like That",
+        "groupKpop": "Black Pink",
+        "rarity": 1,
+        "code": "BPJEHO1",
+        "urlImage": "Garam/BlackPink/HowYouLikeThat/Jennie/Jennie.gif",
+        "fountain": "Garam",
+        "identifirer": "Jennie_HowYouLikeThat_BlackPink_Garam_1"
+    },
+    {
+        "idolName": "Jennie",
+        "era": "How You Like That",
+        "groupKpop": "Black Pink",
+        "rarity": 3,
+        "code": "BPJEHO1",
+        "urlImage": "Garam/BlackPink/HowYouLikeThat/Jennie/Jennie3.gif",
+        "fountain": "Garam",
+        "identifirer": "Jennie_HowYouLikeThat_BlackPink_Garam_3"
+    },
+    {
+        "idolName": "Lisa",
+        "era": "How You Like That",
+        "groupKpop": "Black Pink",
+        "rarity": 1,
+        "code": "BPLIHO1",
+        "urlImage": "Garam/BlackPink/HowYouLikeThat/Lisa/Lisa.gif",
+        "fountain": "Garam",
+        "identifirer": "Lisa_HowYouLikeThat_BlackPink_Garam_1"
+    },
+    {
+        "idolName": "Lisa",
+        "era": "How You Like That",
+        "groupKpop": "Black Pink",
+        "rarity": 3,
+        "code": "BPLIHO3",
+        "urlImage": "Garam/BlackPink/HowYouLikeThat/Lisa/Lisa3.gif",
+        "fountain": "Garam",
+        "identifirer": "Lisa_HowYouLikeThat_BlackPink_Garam_3"
+    },
+    {
+        "idolName": "Rose",
+        "era": "How You Like That",
+        "groupKpop": "Black Pink",
+        "rarity": 1,
+        "code": "BPROHO1",
+        "urlImage": "Garam/BlackPink/HowYouLikeThat/Rose/Rose.gif",
+        "fountain": "Garam",
+        "identifirer": "Rose_HowYouLikeThat_BlackPink_Garam_1"
+    },
+    {
+        "idolName": "Jennie",
+        "era": "Kill This Love",
+        "groupKpop": "Black Pink",
+        "rarity": 1,
+        "code": "BPJEKI1",
+        "urlImage": "Garam/BlackPink/KillThisLove/Jennie/Jennie.gif",
+        "fountain": "Garam",
+        "identifirer": "Jennie_KillThisLove_BlackPink_Garam_1"
+    },
+    {
+        "idolName": "Jisoo",
+        "era": "Kill This Love",
+        "groupKpop": "Black Pink",
+        "rarity": 1,
+        "code": "BPJIKI1",
+        "urlImage": "Garam/BlackPink/KillThisLove/Jisoo/Jisoo.gif",
+        "fountain": "Garam",
+        "identifirer": "Jisoo_KillThisLove_BlackPink_Garam_1"
+    },
+    {
+        "idolName": "Lisa",
+        "era": "Kill This Love",
+        "groupKpop": "Black Pink",
+        "rarity": 1,
+        "code": "BPLIKI1",
+        "urlImage": "Garam/BlackPink/KillThisLove/Lisa/Lisa.gif",
+        "fountain": "Garam",
+        "identifirer": "Lisa_KillThisLove_BlackPink_Garam_1"
+    },
+    {
+        "idolName": "Lisa",
+        "era": "Square One",
+        "groupKpop": "Black Pink",
+        "rarity": 1,
+        "code": "BPLISO1",
+        "urlImage": "Garam/BlackPink/SquareOne/Lisa/Lisa.gif",
+        "fountain": "Garam",
+        "identifirer": "Lisa_SquareOne_BlackPink_Garam_1"
+    },
+    {
+        "idolName": "Jennie",
+        "era": "Square One",
+        "groupKpop": "Black Pink",
+        "rarity": 1,
+        "code": "BPJESO1",
+        "urlImage": "Garam/BlackPink/SquareOne/Jennie/Jennie.gif",
+        "fountain": "Garam",
+        "identifirer": "Jennie_SquareOne_BlackPink_Garam_1"
+    },
+    {
+        "idolName": "Jennie",
+        "era": "Square One",
+        "groupKpop": "Black Pink",
+        "rarity": 2,
+        "code": "BPJESO1",
+        "urlImage": "Garam/BlackPink/SquareOne/Jennie/Jennie2.gif",
+        "fountain": "Garam",
+        "identifirer": "Jennie_SquareOne_BlackPink_Garam_2"
+    },
+    {
+        "idolName": "Jennie",
+        "era": "Square Up",
+        "groupKpop": "Black Pink",
+        "rarity": 1,
+        "code": "BPJESU1",
+        "urlImage": "Garam/BlackPink/SquareUp/Jennie/Jennie.gif",
+        "fountain": "Garam",
+        "identifirer": "Jennie_SquareUp_BlackPink_Garam_1"
+    },
+    {
+        "idolName": "Jisoo",
+        "era": "Square Up",
+        "groupKpop": "Black Pink",
+        "rarity": 3,
+        "code": "BPJISU3",
+        "urlImage": "Garam/BlackPink/SquareUp/Jisoo/Jisoo3.gif",
+        "fountain": "Garam",
+        "identifirer": "Jisoo_SquareUp_BlackPink_Garam_3"
+    },
+    {
+        "idolName": "Lisa",
+        "era": "Square Up",
+        "groupKpop": "Black Pink",
+        "rarity": 1,
+        "code": "BPLISU1",
+        "urlImage": "Garam/BlackPink/SquareUp/Lisa/Lisa.gif",
+        "fountain": "Garam",
+        "identifirer": "Lisa_SquareUp_BlackPink_Garam_1"
+    },
+    {
+        "idolName": "Rose",
+        "era": "Square Up",
+        "groupKpop": "Black Pink",
+        "rarity": 1,
+        "code": "BPROSU1",
+        "urlImage": "Garam/BlackPink/SquareUp/Rose/Rose.gif",
+        "fountain": "Garam",
+        "identifirer": "Rose_SquareUp_BlackPink_Garam_1"
+    },
+    {
+        "idolName": "Jennie",
+        "era": "The Album",
+        "groupKpop": "Black Pink",
+        "rarity": 1,
+        "code": "BPJETH1",
+        "urlImage": "Garam/BlackPink/TheAlbum/Jennie/Jennie.gif",
+        "fountain": "Garam",
+        "identifirer": "Jennie_TheAlbum_BlackPink_Garam_1"
+    },
+    {
+        "idolName": "Jisoo",
+        "era": "The Album",
+        "groupKpop": "Black Pink",
+        "rarity": 1,
+        "code": "BPJITH1",
+        "urlImage": "Garam/BlackPink/TheAlbum/Jisoo/Jisoo.gif",
+        "fountain": "Garam",
+        "identifirer": "Jisoo_TheAlbum_BlackPink_Garam_1"
+    },
+    {
+        "idolName": "Jisoo",
+        "era": "The Album",
+        "groupKpop": "Black Pink",
+        "rarity": 3,
+        "code": "BPJITH3",
+        "urlImage": "Garam/BlackPink/TheAlbum/Jisoo/Jisoo3.gif",
+        "fountain": "Garam",
+        "identifirer": "Jisoo_TheAlbum_BlackPink_Garam_3"
+    },
+    {
+        "idolName": "Lisa",
+        "era": "The Album",
+        "groupKpop": "Black Pink",
+        "rarity": 1,
+        "code": "BPLITH1",
+        "urlImage": "Garam/BlackPink/TheAlbum/Lisa/Lisa.gif",
+        "fountain": "Garam",
+        "identifirer": "Lisa_TheAlbum_BlackPink_Garam_1"
+    },
+    {
+        "idolName": "Gaeul",
+        "era": "After Like",
+        "groupKpop": "Ive",
+        "rarity": 1,
+        "code": "IVGA1",
+        "urlImage": "Garam/Ive/AfterLike/Gaeul/Gaeul.gif",
+        "fountain": "Garam",
+        "identifirer": "Gaeul_AfterLike_Ive_Garam_1"
+    },
+    {
+        "idolName": "Leeseo",
+        "era": "After Like",
+        "groupKpop": "Ive",
+        "rarity": 1,
+        "code": "IVLEA1",
+        "urlImage": "Garam/Ive/AfterLike/Leeseo/Leeseo.gif",
+        "fountain": "Garam",
+        "identifirer": "Leeseo_AfterLike_Ive_Garam_1"
+    },
+    {
+        "idolName": "Liz",
+        "era": "After Like",
+        "groupKpop": "Ive",
+        "rarity": 1,
+        "code": "IVLIA1",
+        "urlImage": "Garam/Ive/AfterLike/Liz/Liz.gif",
+        "fountain": "Garam",
+        "identifirer": "Liz_AfterLike_Ive_Garam_1"
+    },
+    {
+        "idolName": "Wonyoung",
+        "era": "After Like",
+        "groupKpop": "Ive",
+        "rarity": 1,
+        "code": "IVWOA1",
+        "urlImage": "Garam/Ive/AfterLike/Wonyoung/Wonyoung.gif",
+        "fountain": "Garam",
+        "identifirer": "Wonyoung_AfterLike_Ive_Garam_1"
+    },
+    {
+        "idolName": "Leeseo",
+        "era": "Eleven",
+        "groupKpop": "Ive",
+        "rarity": 1,
+        "code": "IVLEL1",
+        "urlImage": "Garam/Ive/Eleven/Leeseo/Leeseo.gif",
+        "fountain": "Garam",
+        "identifirer": "Leeseo_Eleven_Ive_Garam_1"
+    },
+    {
+        "idolName": "Gaeul",
+        "era": "Eleven",
+        "groupKpop": "Ive",
+        "rarity": 2,
+        "code": "IVGAL2",
+        "urlImage": "Garam/Ive/Eleven/Gaeul/Gaeul2.gif",
+        "fountain": "Garam",
+        "identifirer": "Gaeul_Eleven_Ive_Garam_2"
+    },
+    {
+        "idolName": "Rei",
+        "era": "Eleven",
+        "groupKpop": "Ive",
+        "rarity": 3,
+        "code": "IVREL3",
+        "urlImage": "Garam/Ive/Eleven/Rei/Rei3.gif",
+        "fountain": "Garam",
+        "identifirer": "Rei_Eleven_Ive_Garam_3"
+    },
+    {
+        "idolName": "Wonyoung",
+        "era": "Eleven",
+        "groupKpop": "Ive",
+        "rarity": 1,
+        "code": "IVWONL1",
+        "urlImage": "Garam/Ive/Eleven/Wonyoung/Wonyoung.gif",
+        "fountain": "Garam",
+        "identifirer": "Wonyoung_Eleven_Ive_Garam_1"
+    },
+    {
+        "idolName": "Yujin",
+        "era": "Eleven",
+        "groupKpop": "Ive",
+        "rarity": 1,
+        "code": "IVYUJL1",
+        "urlImage": "Garam/Ive/Eleven/Yujin/Yujin.gif",
+        "fountain": "Garam",
+        "identifirer": "Yujin_Eleven_Ive_Garam_1"
+    },
+    {
+        "idolName": "Rei",
+        "era": "Ive",
+        "groupKpop": "Ive",
+        "rarity": 1,
+        "code": "IVRIV1",
+        "urlImage": "Garam/Ive/Ive/Rei/Rei.gif",
+        "fountain": "Garam",
+        "identifirer": "Rei_Ive_Ive_Garam_1"
+    },
+    {
+        "idolName": "Wonyoung",
+        "era": "Ive",
+        "groupKpop": "Ive",
+        "rarity": 1,
+        "code": "IVWOIV1",
+        "urlImage": "Garam/Ive/Ive/Wonyoung/Wonyoung.gif",
+        "fountain": "Garam",
+        "identifirer": "Wonyoung_Ive_Ive_Garam_1"
+    },
+    {
+        "idolName": "Rei",
+        "era": "Ive ME",
+        "groupKpop": "Ive",
+        "rarity": 1,
+        "code": "IVRIM1",
+        "urlImage": "Garam/Ive/IveMe/Rei/Rei.gif",
+        "fountain": "Garam",
+        "identifirer": "Rei_IveMe_Ive_Garam_1"
+    },
+    {
+        "idolName": "Wonyoung",
+        "era": "Ive ME",
+        "groupKpop": "Ive",
+        "rarity": 1,
+        "code": "IVWIM1",
+        "urlImage": "Garam/Ive/IveMe/Wonyoung/Wonyoung.gif",
+        "fountain": "Garam",
+        "identifirer": "Wonyoung_IveMe_Ive_Garam_1"
+    },
+    {
+        "idolName": "Wonyoung",
+        "era": "Ive Mine",
+        "groupKpop": "Ive",
+        "rarity": 1,
+        "code": "IVWOIMI1",
+        "urlImage": "Garam/Ive/IveMine/Wonyoung/Wonyoung.gif",
+        "fountain": "Garam",
+        "identifirer": "Wonyoung_IveMine_Ive_Garam_1"
+    },
+    {
+        "idolName": "Liz",
+        "era": "Ive Mine",
+        "groupKpop": "Ive",
+        "rarity": 1,
+        "code": "IVLIIMI1",
+        "urlImage": "Garam/Ive/IveMine/Liz/Liz.gif",
+        "fountain": "Garam",
+        "identifirer": "Liz_IveMine_Ive_Garam_1"
+    },
+    {
+        "idolName": "Yujin",
+        "era": "Ive Mine",
+        "groupKpop": "Ive",
+        "rarity": 1,
+        "code": "IVYUIMI1",
+        "urlImage": "Garam/Ive/IveMine/Yujin/Yujin.gif",
+        "fountain": "Garam",
+        "identifirer": "Yujin_IveMine_Ive_Garam_1"
+    },
+    {
+        "idolName": "Yujin",
+        "era": "Love Dive",
+        "groupKpop": "Ive",
+        "rarity": 1,
+        "code": "IVYULV1",
+        "urlImage": "Garam/Ive/LoveDive/Yujin/Yujin.gif",
+        "fountain": "Garam",
+        "identifirer": "Yujin_LoveDive_Ive_Garam_1"
+    },
+    {
+        "idolName": "Leeseo",
+        "era": "Love Dive",
+        "groupKpop": "Ive",
+        "rarity": 1,
+        "code": "IVLELV1",
+        "urlImage": "Garam/Ive/LoveDive/Leeseo/Leeseo.gif",
+        "fountain": "Garam",
+        "identifirer": "Leeseo_LoveDive_Ive_Garam_1"
+    },
+    {
+        "idolName": "Rei",
+        "era": "Love Dive",
+        "groupKpop": "Ive",
+        "rarity": 1,
+        "code": "IVRELV1",
+        "urlImage": "Garam/Ive/LoveDive/Rei/Rei.gif",
+        "fountain": "Garam",
+        "identifirer": "Rei_LoveDive_Ive_Garam_1"
+    },
+    {
+        "idolName": "Wonyoung",
+        "era": "Love Dive",
+        "groupKpop": "Ive",
+        "rarity": 1,
+        "code": "IVWOLV1",
+        "urlImage": "Garam/Ive/LoveDive/Wonyoung/Wonyoung.gif",
+        "fountain": "Garam",
+        "identifirer": "Wonyoung_LoveDive_Ive_Garam_1"
+    },
+    {
+        "idolName": "Leeseo",
+        "era": "Sanrio",
+        "groupKpop": "Ive",
+        "rarity": 2,
+        "code": "IVLS2",
+        "urlImage": "Garam/Ive/Sanrio/Leeseo/Leeseo.gif",
+        "fountain": "Garam",
+        "identifirer": "Leeseo_Sanrio_Ive_Garam_2"
+    },
+    {
+        "idolName": "Jinli",
+        "era": "Ship",
+        "groupKpop": "Ive",
+        "rarity": 2,
+        "code": "IVJISH2",
+        "urlImage": "Garam/Ive/Ship/Jinli/Jinli2.gif",
+        "fountain": "Garam",
+        "identifirer": "Jinli_Ship_Ive_Garam_2"
+    },
+    {
+        "idolName": "Youngliz",
+        "era": "Ship",
+        "groupKpop": "Ive",
+        "rarity": 2,
+        "code": "IVYOSH2",
+        "urlImage": "Garam/Ive/Ship/Youngliz/Youngliz2.gif",
+        "fountain": "Garam",
+        "identifirer": "Youngliz_Ship_Ive_Garam_2"
+    },
+    {
+        "idolName": "Maknaez",
+        "era": "Ship",
+        "groupKpop": "Ive",
+        "rarity": 2,
+        "code": "IVMAKSH2",
+        "urlImage": "Garam/Ive/Ship/Maknaez/Maknaez2.gif",
+        "fountain": "Garam",
+        "identifirer": "Maknaez_Ship_Ive_Garam_2"
+    },
+    {
+        "idolName": "Yureiz",
+        "era": "Ship",
+        "groupKpop": "Ive",
+        "rarity": 2,
+        "code": "IVYUSH2",
+        "urlImage": "Garam/Ive/Ship/Yureiz/Yureiz2.gif",
+        "fountain": "Garam",
+        "identifirer": "Yureiz_Ship_Ive_Garam_2"
+    },
+    {
+        "idolName": "Leeseo",
+        "era": "Wave",
+        "groupKpop": "Ive",
+        "rarity": 1,
+        "code": "IVLEW",
+        "urlImage": "Garam/Ive/Wave/Leeseo/Leeseo.gif",
+        "fountain": "Garam",
+        "identifirer": "Leeseo_Wave_Ive_Garam_1"
+    },
+    {
+        "idolName": "Chaehyun",
+        "era": "3D",
+        "groupKpop": "Kep1er",
+        "rarity": 3,
+        "code": "KEC3D3",
+        "urlImage": "Garam/Kepler/3D/Chaehyun/Chaehyu3d.gif",
+        "fountain": "Garam",
+        "identifirer": "Chaehyun_3D_Kep1er_Garam_1"
+    },
+    {
+        "idolName": "Mashiro",
+        "era": "Doublast",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KEMD1",
+        "urlImage": "Garam/Kepler/Doublast/Mashiro/Mashiro.png",
+        "fountain": "Garam",
+        "identifirer": "Mashiro_Doublast_Kep1er_Garam_1"
+    },
+    {
+        "idolName": "Youngeun",
+        "era": "Doublast",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KEYD1",
+        "urlImage": "Garam/Kepler/Doublast/Youngeun/Youngeun.png",
+        "fountain": "Garam",
+        "identifirer": "Youngeun_Doublast_Kep1er_Garam_1"
+    },
+    {
+        "idolName": "Bahiyyih",
+        "era": "Doublast",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KEBAD1",
+        "urlImage": "Garam/Kepler/Doublast/Bahiyyih/Bahiyyih.png",
+        "fountain": "Garam",
+        "identifirer": "Bahiyyih_Doublast_Kep1er_Garam_1"
+    },
+    {
+        "idolName": "Xiaoting",
+        "era": "Doublast",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KEXID1",
+        "urlImage": "Garam/Kepler/Doublast/Xiaoting/Xiaoting.png",
+        "fountain": "Garam",
+        "identifirer": "Xiaoting_Doublast_Kep1er_Garam_1"
+    },
+    {
+        "idolName": "Yeseo",
+        "era": "Doublast",
+        "groupKpop": "Kep1er",
+        "rarity": 3,
+        "code": "KEYESD3",
+        "urlImage": "Garam/Kepler/Doublast/Yeseo/Yeseo3.png",
+        "fountain": "Garam",
+        "identifirer": "Yeseo_Doublast_Kep1er_Garam_3"
+    },
+    {
+        "idolName": "Yujin",
+        "era": "Doublast",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KEYUJD1",
+        "urlImage": "Garam/Kepler/Doublast/Yujin/Yujin.png",
+        "fountain": "Garam",
+        "identifirer": "Yujin_Doublast_Kep1er_Garam_1"
+    },
+    {
+        "idolName": "Yeseo",
+        "era": "First Impact",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KEYFI1",
+        "urlImage": "Garam/Kepler/FirstImpact/Yeseo/Yeseo.png",
+        "fountain": "Garam",
+        "identifirer": "Yeseo_FirstImpact_Kep1er_Garam_1"
+    },
+    {
+        "idolName": "Yujin",
+        "era": "First Impact",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KEYUFI1",
+        "urlImage": "Garam/Kepler/FirstImpact/Yujin/Yujin.png",
+        "fountain": "Garam",
+        "identifirer": "Yujin_FirstImpact_Kep1er_Garam_1"
+    },
+    {
+        "idolName": "Dayeon",
+        "era": "Fly By",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KEDFB1",
+        "urlImage": "Garam/Kepler/FlyBy/Dayeon/Dayeon.png",
+        "fountain": "Garam",
+        "identifirer": "Dayeon_FlyBy_Kep1er_Garam_1"
+    },
+    {
+        "idolName": "Xiaoting",
+        "era": "Fly By",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KEXIFB1",
+        "urlImage": "Garam/Kepler/FlyBy/Xiaoting/Xiaoting.png",
+        "fountain": "Garam",
+        "identifirer": "Xiaoting_FlyBy_Kep1er_Garam_1"
+    },
+    {
+        "idolName": "Yujin",
+        "era": "Fly By",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KEYUFB1",
+        "urlImage": "Garam/Kepler/FlyBy/Yujin/Yujin.png",
+        "fountain": "Garam",
+        "identifirer": "Yujin_FlyBy_Kep1er_Garam_1"
+    },
+    {
+        "idolName": "Chaehyun",
+        "era": "Fly High",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KECFH1",
+        "urlImage": "Garam/Kepler/FlyHigh/Chaehyun/Chaehyun.gif",
+        "fountain": "Garam",
+        "identifirer": "Chaehyun_FlyHigh_Kep1er_Garam_1"
+    },
+    {
+        "idolName": "Dayeon",
+        "era": "Fly High",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KEDFH1",
+        "urlImage": "Garam/Kepler/FlyHigh/Dayeon/Dayeon.png",
+        "fountain": "Garam",
+        "identifirer": "Dayeon_FlyHigh_Kep1er_Garam_1"
+    },
+    {
+        "idolName": "Yeseo",
+        "era": "Fly High",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KEYEFH1",
+        "urlImage": "Garam/Kepler/FlyHigh/Yeseo/Yeseo.png",
+        "fountain": "Garam",
+        "identifirer": "Yeseo_FlyHigh_Kep1er_Garam_1"
+    },
+    {
+        "idolName": "Yujin",
+        "era": "Fly High",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KEYUFH1",
+        "urlImage": "Garam/Kepler/FlyHigh/Yujin/Yujin.png",
+        "fountain": "Garam",
+        "identifirer": "Yujin_FlyHigh_Kep1er_Garam_1"
+    },
+    {
+        "idolName": "Yujin",
+        "era": "Fly Up",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KEYUFU1",
+        "urlImage": "Garam/Kepler/FlyUp/Yujin/Yujin.gif",
+        "fountain": "Garam",
+        "identifirer": "Yujin_FlyUp_Kep1er_Garam_1"
+    },
+    {
+        "idolName": "Chaehyun",
+        "era": "Fly Up",
+        "groupKpop": "Kep1er",
+        "rarity": 2,
+        "code": "KECHAFU2",
+        "urlImage": "Garam/Kepler/FlyUp/Chaehyun/Chaehyun2.gif",
+        "fountain": "Garam",
+        "identifirer": "Chaehyun_FlyUp_Kep1er_Garam_2"
+    },
+    {
+        "idolName": "Mashiro",
+        "era": "Fly Up",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KEMAFU1",
+        "urlImage": "Garam/Kepler/FlyUp/Mashiro/Mashiro2.gif",
+        "fountain": "Garam",
+        "identifirer": "Mashiro_FlyUp_Kep1er_Garam_2"
+    },
+    {
+        "idolName": "Yujin",
+        "era": "Magic Hour",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KEYUMH1",
+        "urlImage": "Garam/Kepler/MagicHour/Yujin/Yujin.png",
+        "fountain": "Garam",
+        "identifirer": "Yujin_MagicHour_Kep1er_Garam_1"
+    },
+    {
+        "idolName": "Yujin",
+        "era": "Magic Hour",
+        "groupKpop": "Kep1er",
+        "rarity": 2,
+        "code": "KEYUMH2",
+        "urlImage": "Garam/Kepler/MagicHour/Yujin/Yujin2.png",
+        "fountain": "Garam",
+        "identifirer": "Yujin_MagicHour_Kep1er_Garam_2"
+    },
+    {
+        "idolName": "Mashiro",
+        "era": "Magic Hour",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KEMMH1",
+        "urlImage": "Garam/Kepler/MagicHour/Mashiro/Mashiro.png",
+        "fountain": "Garam",
+        "identifirer": "Mashiro_MagicHour_Kep1er_Garam_1"
+    },
+    {
+        "idolName": "Chaehyun",
+        "era": "Magic Hour",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KECMH1",
+        "urlImage": "Garam/Kepler/MagicHour/Chaehyun/Chaehyun.png",
+        "fountain": "Garam",
+        "identifirer": "Chaehyun_MagicHour_Kep1er_Garam_1"
+    },
+    {
+        "idolName": "Bahiyyih",
+        "era": "Magic Hour",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KEBAMH1",
+        "urlImage": "Garam/Kepler/MagicHour/Bahiyyih/Bahiyyih.png",
+        "fountain": "Garam",
+        "identifirer": "Bahiyyih_MagicHour_Kep1er_Garam_1"
+    },
+    {
+        "idolName": "Xiaoting",
+        "era": "Magic Hour",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KEXIMH1",
+        "urlImage": "Garam/Kepler/MagicHour/Xiaoting/Xiaoting.png",
+        "fountain": "Garam",
+        "identifirer": "Xiaoting_MagicHour_Kep1er_Garam_1"
+    },
+    {
+        "idolName": "Youngeun",
+        "era": "Magic Hour",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KEYOUMH1",
+        "urlImage": "Garam/Kepler/MagicHour/Youngeun/Youngeun.png",
+        "fountain": "Garam",
+        "identifirer": "Youngeun_MagicHour_Kep1er_Garam_1"
+    },
+    {
+        "idolName": "Chashiro",
+        "era": "Ship",
+        "groupKpop": "Kep1er",
+        "rarity": 2,
+        "code": "KECSSH2",
+        "urlImage": "Garam/Kepler/Ship/Chashiro/Chashiro2.gif",
+        "fountain": "Garam",
+        "identifirer": "Chashiro_Ship_Kep1er_Garam_2"
+    },
+    {
+        "idolName": "Chaeseo",
+        "era": "Ship",
+        "groupKpop": "Kep1er",
+        "rarity": 2,
+        "code": "KECHASH2",
+        "urlImage": "Garam/Kepler/Ship/Chaeseo/Chaeseo2.gif",
+        "fountain": "Garam",
+        "identifirer": "Chaeseo_Ship_Kep1er_Garam_2"
+    },
+    {
+        "idolName": "Joy",
+        "era": "Bloom",
+        "groupKpop": "Red Velvet",
+        "rarity": 1,
+        "code": "RDJB1",
+        "urlImage": "Garam/RedVelvet/BLoom/Joy/Joy.gif",
+        "fountain": "Garam",
+        "identifirer": "Joy_Bloom_RedVelvet_Garam_1"
+    },
+    {
+        "idolName": "Yeri",
+        "era": "Bloom",
+        "groupKpop": "Red Velvet",
+        "rarity": 1,
+        "code": "RDYB1",
+        "urlImage": "Garam/RedVelvet/BLoom/Yeri/Yeri.gif",
+        "fountain": "Garam",
+        "identifirer": "Yeri_Bloom_RedVelvet_Garam_1"
+    },
+    {
+        "idolName": "Joy",
+        "era": "Fell My Rhythm",
+        "groupKpop": "Red Velvet",
+        "rarity": 1,
+        "code": "RDJFMR1",
+        "urlImage": "Garam/RedVelvet/FellMyRhytem/Joy/Joy.png",
+        "fountain": "Garam",
+        "identifirer": "Joy_FellMyRhythm_RedVelvet_Garam_1"
+    },
+    {
+        "idolName": "Irene",
+        "era": "Fell My Rhythm",
+        "groupKpop": "Red Velvet",
+        "rarity": 1,
+        "code": "RDIFMR1",
+        "urlImage": "Garam/RedVelvet/FellMyRhytem/Irene/Irene.png",
+        "fountain": "Garam",
+        "identifirer": "Irene_FellMyRhythm_RedVelvet_Garam_1"
+    },
+    {
+        "idolName": "Yeri",
+        "era": "Fell My Rhythm",
+        "groupKpop": "Red Velvet",
+        "rarity": 1,
+        "code": "RDYFMR1",
+        "urlImage": "Garam/RedVelvet/FellMyRhytem/Yeri/Yeri.png",
+        "fountain": "Garam",
+        "identifirer": "Yeri_FellMyRhythm_RedVelvet_Garam_1"
+    },
+    {
+        "idolName": "Joy",
+        "era": "Perfect Velvet",
+        "groupKpop": "Red Velvet",
+        "rarity": 1,
+        "code": "RDJPV1",
+        "urlImage": "Garam/RedVelvet/PerfectVelvet/Joy/Joy.png",
+        "fountain": "Garam",
+        "identifirer": "Joy_PerfectVelvet_RedVelvet_Garam_1"
+    },
+    {
+        "idolName": "Giselle",
+        "era": "RvXAe",
+        "groupKpop": "Red Velvet & Aespa",
+        "rarity": 1,
+        "code": "RDASGRA1",
+        "urlImage": "Garam/RedVelvet/RvXAe/Giselle/Giselle2.png",
+        "fountain": "Garam",
+        "identifirer": "Giselle_RvXAe_Redvelvet&Aespa_Garam_1"
+    },
+    {
+        "idolName": "Karina",
+        "era": "RvXAe",
+        "groupKpop": "Red Velvet & Aespa",
+        "rarity": 1,
+        "code": "RDAEKRA1",
+        "urlImage": "Garam/RedVelvet/RvXAe/Karina/Karina.png",
+        "fountain": "Garam",
+        "identifirer": "Karina_RvXAe_Redvelvet&Aespa_Garam_1"
+    },
+    {
+        "idolName": "Yeri",
+        "era": "RvXAe",
+        "groupKpop": "Red Velvet & Aespa",
+        "rarity": 1,
+        "code": "RDAEYRA1",
+        "urlImage": "Garam/RedVelvet/RvXAe/Yeri/Yeri.png",
+        "fountain": "Garam",
+        "identifirer": "Yeri_RvXAe_Redvelvet&Aespa_Garam_1"
+    },
+    {
+        "idolName": "Joy",
+        "era": "Summer Magic",
+        "groupKpop": "Red Velvet",
+        "rarity": 1,
+        "code": "RDJSM1",
+        "urlImage": "Garam/RedVelvet/SummerMagic/Joy/Joy.png",
+        "fountain": "Garam",
+        "identifirer": "Joy_SummerMagic_RedVelvet_Garam_1"
+    },
+    {
+        "idolName": "Wendy",
+        "era": "The Red Summer",
+        "groupKpop": "Red Velvet",
+        "rarity": 1,
+        "code": "RDWTRS1",
+        "urlImage": "Garam/RedVelvet/TheRedSummer/Wendy/Wendy.png",
+        "fountain": "Garam",
+        "identifirer": "Wendy_TheRedSummer_RedVelvet_Garam_1"
+    },
+    {
+        "idolName": "Irene",
+        "era": "The Reve Festival Finale",
+        "groupKpop": "Red Velvet",
+        "rarity": 1,
+        "code": "RDITRFF1",
+        "urlImage": "Garam/RedVelvet/TheReveFestivalFinale/Irene/Irene.png",
+        "fountain": "Garam",
+        "identifirer": "Irene_TheReveFestivalFinale_RedVelvet_Garam_1"
+    },
+    {
+        "idolName": "Yeri",
+        "era": "The Reve Festival Finale",
+        "groupKpop": "Red Velvet",
+        "rarity": 1,
+        "code": "RDYTRFF1",
+        "urlImage": "Garam/RedVelvet/TheReveFestivalFinale/Yeri/Yeri.png",
+        "fountain": "Garam",
+        "identifirer": "Yeri_TheReveFestivalFinale_RedVelvet_Garam_1"
+    },
+    {
+        "idolName": "Giselle",
+        "era": "Dream Come True",
+        "groupKpop": "Aespa",
+        "rarity": 1,
+        "code": "AESGDCT1",
+        "urlImage": "Kbot/Aespa/DreamComeTrue/Giselle/GiselleV2.png",
+        "fountain": "Kbot",
+        "identifirer": "Giselle_DreamComeTrue_Aespa_Kbot"
+    },
+    {
+        "idolName": "Winter",
+        "era": "Dream Come True",
+        "groupKpop": "Aespa",
+        "rarity": 1,
+        "code": "AESWDCT1",
+        "urlImage": "Kbot/Aespa/DreamComeTrue/Winter/WinterV2.png",
+        "fountain": "Kbot",
+        "identifirer": "Winter_DreamComeTrue_Aespa_Kbot"
+    },
+    {
+        "idolName": "Giselle",
+        "era": "Savage",
+        "groupKpop": "Aespa",
+        "rarity": 1,
+        "code": "AESGSA1",
+        "urlImage": "Kbot/Aespa/Savage/Giselle/Giselle.png",
+        "fountain": "Kbot",
+        "identifirer": "Giselle_Savage_Aespa_Kbot"
+    },
+    {
+        "idolName": "Giselle",
+        "era": "Savage",
+        "groupKpop": "Aespa",
+        "rarity": 1,
+        "code": "AESGSAV21",
+        "urlImage": "Kbot/Aespa/Savage/Giselle/GiselleV2.png",
+        "fountain": "Kbot",
+        "identifirer": "Giselle_Savage_Aespa_Kbot"
+    },
+    {
+        "idolName": "Rose",
+        "era": "Kill This Love",
+        "groupKpop": "Black Pink",
+        "rarity": 1,
+        "code": "BPRKTL1",
+        "urlImage": "Kbot/BlackPink/KillThisLove/Rose/Rose.png",
+        "fountain": "Kbot",
+        "identifirer": "Rose_KillThisLove_BlackPink_Kbot"
+    },
+    {
+        "idolName": "Lisa",
+        "era": "Play With Fire",
+        "groupKpop": "Black Pink",
+        "rarity": 1,
+        "code": "BPLPWFI1",
+        "urlImage": "Kbot/BlackPink/PlayWithFire/Lisa/Lisa.png",
+        "fountain": "Kbot",
+        "identifirer": "Lisa_PlayWithFire_BlackPink_Kbot"
+    },
+    {
+        "idolName": "Lisa",
+        "era": "Rolling Stone",
+        "groupKpop": "Black Pink",
+        "rarity": 1,
+        "code": "BPLRST1",
+        "urlImage": "Kbot/BlackPink/RollingStone22/Lisa/Lisa.png",
+        "fountain": "Kbot",
+        "identifirer": "Lisa_RollingStone_BlackPink_Kbot"
+    },
+    {
+        "idolName": "Rose",
+        "era": "The Album",
+        "groupKpop": "Black Pink",
+        "rarity": 1,
+        "code": "BPRTAL1",
+        "urlImage": "Kbot/BlackPink/TheAlbum/Rose/Rose.png",
+        "fountain": "Kbot",
+        "identifirer": "Rose_TheAlbum_BlackPink_Kbot"
+    },
+    {
+        "idolName": "Minnie",
+        "era": "I Never Die",
+        "groupKpop": "GIDLE",
+        "rarity": 1,
+        "code": "GIMINDI1",
+        "urlImage": "Kbot/GIDLE/INeverDie/Minnie/Minnie.png",
+        "fountain": "Kbot",
+        "identifirer": "Minnie_INeverDie_GIDLE_Kbot"
+    },
+    {
+        "idolName": "Rei",
+        "era": "Eleven",
+        "groupKpop": "Ive",
+        "rarity": 1,
+        "code": "IVRELE1",
+        "urlImage": "Kbot/Ive/Eleven/Rei/Rei.png",
+        "fountain": "Kbot",
+        "identifirer": "Rei_Eleven_Ive_Kbot"
+    },
+    {
+        "idolName": "Rei",
+        "era": "I've ME",
+        "groupKpop": "Ive",
+        "rarity": 1,
+        "code": "IVRIVME1",
+        "urlImage": "Garam/Ive/Ive/Rei/Rei.gif",
+        "fountain": "Garam",
+        "identifirer": "Rei_Ive_Ive_Garam_1"
+    },
+    {
+        "idolName": "Leeseo",
+        "era": "I've ME",
+        "groupKpop": "Ive",
+        "rarity": 1,
+        "code": "IVLIVME1",
+        "urlImage": "Kbot/Ive/IveMe/Leeseo/Leeseo.png",
+        "fountain": "Kbot",
+        "identifirer": "Leeseo_IveMe_Ive_Kbot"
+    },
+    {
+        "idolName": "Gaeul",
+        "era": "Love Dive",
+        "groupKpop": "Ive",
+        "rarity": 1,
+        "code": "IVGLDI1",
+        "urlImage": "Kbot/Ive/LoveDive/Gaeul/Gaeul.png",
+        "fountain": "Kbot",
+        "identifirer": "Gaeul_LoveDive_Ive_Kbot"
+    },
+    {
+        "idolName": "Rei",
+        "era": "PreDebut",
+        "groupKpop": "Ive",
+        "rarity": 1,
+        "code": "IVRPDE1",
+        "urlImage": "Kbot/Ive/PreDebut/Rei/Rei.png",
+        "fountain": "Kbot",
+        "identifirer": "Rei_PreDebut_Ive_Kbot"
+    },
+    {
+        "idolName": "Gaeul",
+        "era": "Wave",
+        "groupKpop": "Ive",
+        "rarity": 1,
+        "code": "IVGWAV1",
+        "urlImage": "Kbot/Ive/Wave/Gaeul/Gaeul.png",
+        "fountain": "Kbot",
+        "identifirer": "Gaeul_Wave_Ive_Kbot"
+    },
+    {
+        "idolName": "Liz",
+        "era": "Wave",
+        "groupKpop": "Ive",
+        "rarity": 1,
+        "code": "IVLWAV1",
+        "urlImage": "Kbot/Ive/Wave/Liz/Liz.png",
+        "fountain": "Kbot",
+        "identifirer": "Liz_Wave_Ive_Kbot"
+    },
+    {
+        "idolName": "Rei",
+        "era": "Wave",
+        "groupKpop": "Ive",
+        "rarity": 1,
+        "code": "IVRWAV1",
+        "urlImage": "Kbot/Ive/Wave/Rei/Rei.png",
+        "fountain": "Kbot",
+        "identifirer": "Rei_Wave_Ive_Kbot"
+    },
+    {
+        "idolName": "Wonyoung",
+        "era": "Wave",
+        "groupKpop": "Ive",
+        "rarity": 1,
+        "code": "IVWWAV1",
+        "urlImage": "Kbot/Ive/Wave/Wonyoung/Wonyoung.png",
+        "fountain": "Kbot",
+        "identifirer": "Wonyoung_Wave_Ive_Kbot"
+    },
+    {
+        "idolName": "Yujin",
+        "era": "Wave",
+        "groupKpop": "Ive",
+        "rarity": 1,
+        "code": "IVYWAV1",
+        "urlImage": "Kbot/Ive/Wave/Yujin/Yujin.png",
+        "fountain": "Kbot",
+        "identifirer": "Yujin_Wave_Ive_Kbot"
+    },
+    {
+        "idolName": "Chaehyun",
+        "era": "Dazed",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KECDAZ1",
+        "urlImage": "Kbot/Kepler/Dazed/Chaehyun/ChaehyunV3.png",
+        "fountain": "Kbot",
+        "identifirer": "Chaehyun_Dazed_Kep1er_Kbot"
+    },
+    {
+        "idolName": "Mashiro",
+        "era": "Dazed",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KEMDAZ1",
+        "urlImage": "Kbot/Kepler/Dazed/Mashiro/Mashiro.png",
+        "fountain": "Kbot",
+        "identifirer": "Mashiro_Dazed_Kep1er_Kbot"
+    },
+    {
+        "idolName": "Youngeun",
+        "era": "Dispatch",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KEYDIS1",
+        "urlImage": "Kbot/Kepler/Dispatch22/Youngeun/Youngeun.png",
+        "fountain": "Kbot",
+        "identifirer": "Youngeun_Dispatch_Kep1er_Kbot"
+    },
+    {
+        "idolName": "Mashiro",
+        "era": "Dispatch",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KEMDIS1",
+        "urlImage": "Kbot/Kepler/Dispatch22/Mashiro/Mashiro.png",
+        "fountain": "Kbot",
+        "identifirer": "Mashiro_Dispatch_Kep1er_Kbot"
+    },
+    {
+        "idolName": "Bahiyyih",
+        "era": "Doublast",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KEBDOU1",
+        "urlImage": "Kbot/Kepler/Doublast/Bahiyyih/Bahiyyih.png",
+        "fountain": "Kbot",
+        "identifirer": "Bahiyyih_Doublast_Kep1er_Kbot"
+    },
+    {
+        "idolName": "Bahiyyih",
+        "era": "Doublast",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KEBDOUV21",
+        "urlImage": "Kbot/Kepler/Doublast/Bahiyyih/BahiyyihV2.png",
+        "fountain": "Kbot",
+        "identifirer": "Bahiyyih_Doublast_Kep1er_Kbot"
+    },
+    {
+        "idolName": "Hikaru",
+        "era": "Doublast",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KEHDOU1",
+        "urlImage": "Kbot/Kepler/Doublast/Hikaru/Hikaru.png",
+        "fountain": "Kbot",
+        "identifirer": "Hikaru_Doublast_Kep1er_Kbot"
+    },
+    {
+        "idolName": "Bahiyyih",
+        "era": "First Impact",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KEBFIMV31",
+        "urlImage": "Kbot/Kepler/FirstImpact/Bahiyyih/BahiyyihV3.png",
+        "fountain": "Kbot",
+        "identifirer": "Bahiyyih_FirstImpact_Kep1er_Kbot"
+    },
+    {
+        "idolName": "Chaehyun",
+        "era": "First Impact",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KECFIMV31",
+        "urlImage": "Kbot/Kepler/FirstImpact/Chaehyun/ChaehyunV3.png",
+        "fountain": "Kbot",
+        "identifirer": "Chaehyun_FirstImpact_Kep1er_Kbot"
+    },
+    {
+        "idolName": "Dayeon",
+        "era": "First Impact",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KEDFIM1",
+        "urlImage": "Kbot/Kepler/FirstImpact/Dayeon/Dayeon.png",
+        "fountain": "Kbot",
+        "identifirer": "Dayeon_FirstImpact_Kep1er_Kbot"
+    },
+    {
+        "idolName": "Hikaru",
+        "era": "First Impact",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KEHFIMV31",
+        "urlImage": "Kbot/Kepler/FirstImpact/Hikaru/HikaruV3.png",
+        "fountain": "Kbot",
+        "identifirer": "Hikaru_FirstImpact_Kep1er_Kbot"
+    },
+    {
+        "idolName": "Mashiro",
+        "era": "First Impact",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KEMFIM1",
+        "urlImage": "Kbot/Kepler/FirstImpact/Mashiro/Mashiro.png",
+        "fountain": "Kbot",
+        "identifirer": "Mashiro_FirstImpact_Kep1er_Kbot"
+    },
+    {
+        "idolName": "Xiaoting",
+        "era": "First Impact",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KEXFIMV41",
+        "urlImage": "Kbot/Kepler/FirstImpact/Xiaoting/XiaotingV4.png",
+        "fountain": "Kbot",
+        "identifirer": "Xiaoting_FirstImpact_Kep1er_Kbot"
+    },
+    {
+        "idolName": "Xiaoting",
+        "era": "First Impact",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KEXFIM1",
+        "urlImage": "Kbot/Kepler/FirstImpact/Xiaoting/Xiaoting.png",
+        "fountain": "Kbot",
+        "identifirer": "Xiaoting_FirstImpact_Kep1er_Kbot"
+    },
+    {
+        "idolName": "Chaehyun",
+        "era": "Fly Up",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KECFUP1",
+        "urlImage": "Kbot/Kepler/FlyUp/Chaehyun/Chaehyun.png",
+        "fountain": "Kbot",
+        "identifirer": "Chaehyun_FlyUp_Kep1er_Kbot"
+    },
+    {
+        "idolName": "Chaehyun",
+        "era": "Magic Hour",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KECMHU1",
+        "urlImage": "Kbot/Kepler/MagicHour/Chaehyun/Chaehyun.png",
+        "fountain": "Kbot",
+        "identifirer": "Chaehyun_MagicHour_Kep1er_Kbot"
+    },
+    {
+        "idolName": "Hikaru",
+        "era": "Magic Hour",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KEHMHU1",
+        "urlImage": "Kbot/Kepler/MagicHour/Hikaru/Hikaru.png",
+        "fountain": "Kbot",
+        "identifirer": "Hikaru_MagicHour_Kep1er_Kbot"
+    },
+    {
+        "idolName": "Mashiro",
+        "era": "Magic Hour",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KEMMHU1",
+        "urlImage": "Kbot/Kepler/MagicHour/Mashiro/Mashiro.png",
+        "fountain": "Kbot",
+        "identifirer": "Mashiro_MagicHour_Kep1er_Kbot"
+    },
+    {
+        "idolName": "Xiaoting",
+        "era": "Magic Hour",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KEXMHU1",
+        "urlImage": "Kbot/Kepler/MagicHour/Xiaoting/Xiaoting.png",
+        "fountain": "Kbot",
+        "identifirer": "Xiaoting_MagicHour_Kep1er_Kbot"
+    },
+    {
+        "idolName": "Yujin",
+        "era": "Magic Hour",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KEYMHU1",
+        "urlImage": "Kbot/Kepler/MagicHour/Yujin/Yujin.png",
+        "fountain": "Kbot",
+        "identifirer": "Yujin_MagicHour_Kep1er_Kbot"
+    },
+    {
+        "idolName": "Bahiyyih",
+        "era": "Marie Claire",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KEBMCL1",
+        "urlImage": "Kbot/Kepler/MarieClaire/Bahiyyih/Bahiyyih.png",
+        "fountain": "Kbot",
+        "identifirer": "Bahiyyih_MarieClaire_Kep1er_Kbot"
+    },
+    {
+        "idolName": "Dayeon",
+        "era": "Marie Claire",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KEDMCL1",
+        "urlImage": "Kbot/Kepler/MarieClaire/Dayeon/Dayeon.png",
+        "fountain": "Kbot",
+        "identifirer": "Dayeon_MarieClaire_Kep1er_Kbot"
+    },
+    {
+        "idolName": "Yeseo",
+        "era": "Marie Claire",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KEYEMCL1",
+        "urlImage": "Kbot/Kepler/MarieClaire/Yeseo/Yeseo.png",
+        "fountain": "Kbot",
+        "identifirer": "Yeseo_MarieClaire_Kep1er_Kbot"
+    },
+    {
+        "idolName": "Youngeun",
+        "era": "Marie Claire",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KEYOMCL1",
+        "urlImage": "Kbot/Kepler/MarieClaire/Youngeun/Youngeun.png",
+        "fountain": "Kbot",
+        "identifirer": "Youngeun_MarieClaire_Kep1er_Kbot"
+    },
+    {
+        "idolName": "Youngeun",
+        "era": "Melon Magazine",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KEYOMMA1",
+        "urlImage": "Kbot/Kepler/MelonMagazine/Youngeun/Youngeun.png",
+        "fountain": "Kbot",
+        "identifirer": "Youngeun_MelonMagazine_Kep1er_Kbot"
+    },
+    {
+        "idolName": "Yeseo",
+        "era": "Melon Magazine",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KEYEMCL1",
+        "urlImage": "Kbot/Kepler/MelonMagazine/Yeseo/Yeseo.png",
+        "fountain": "Kbot",
+        "identifirer": "Yeseo_MelonMagazine_Kep1er_Kbot"
+    },
+    {
+        "idolName": "Yujin",
+        "era": "Melon Magazine",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KEYUMCL1",
+        "urlImage": "Kbot/Kepler/MelonMagazine/Yujin/Yujin.png",
+        "fountain": "Kbot",
+        "identifirer": "Yujin_MelonMagazine_Kep1er_Kbot"
+    },
+    {
+        "idolName": "Chaehyun",
+        "era": "S2ND",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KECS2ND1",
+        "urlImage": "Kbot/Kepler/S2ND/Chaehyun/Chaehyun.png",
+        "fountain": "Kbot",
+        "identifirer": "Chaehyun_S2ND_Kep1er_Kbot"
+    },
+    {
+        "idolName": "Xiaoting",
+        "era": "S2ND",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KEXS2ND1",
+        "urlImage": "Kbot/Kepler/S2ND/Xiaoting/Xiaoting.png",
+        "fountain": "Kbot",
+        "identifirer": "Xiaoting_S2ND_Kep1er_Kbot"
+    },
+    {
+        "idolName": "Chaehyun",
+        "era": "Sugar Rush",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KECSRU1",
+        "urlImage": "Kbot/Kepler/SugarRush/Chaehyun/Chaehyun.png",
+        "fountain": "Kbot",
+        "identifirer": "Chaehyun_SugarRush_Kep1er_Kbot"
+    },
+    {
+        "idolName": "Mashiro",
+        "era": "Sugar Rush",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KEMSRU1",
+        "urlImage": "Kbot/Kepler/SugarRush/Mashiro/Mashiro.png",
+        "fountain": "Kbot",
+        "identifirer": "Mashiro_SugarRush_Kep1er_Kbot"
+    },
+    {
+        "idolName": "Dayeon",
+        "era": "The Start",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KEDTST1",
+        "urlImage": "Kbot/Kepler/TheStart22/Dayeon/Dayeon.png",
+        "fountain": "Kbot",
+        "identifirer": "Dayeon_TheStart_Kep1er_Kbot"
+    },
+    {
+        "idolName": "Hikaru",
+        "era": "The Start",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KEHTST1",
+        "urlImage": "Kbot/Kepler/TheStart22/Hikaru/Hikaru.png",
+        "fountain": "Kbot",
+        "identifirer": "Hikaru_TheStart_Kep1er_Kbot"
+    },
+    {
+        "idolName": "Bahiyyih",
+        "era": "Vogue",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KEBVOG1",
+        "urlImage": "Kbot/Kepler/Vogue/Bahiyyih/Bahiyyih.png",
+        "fountain": "Kbot",
+        "identifirer": "Bahiyyih_Vogue_Kep1er_Kbot"
+    },
+    {
+        "idolName": "Chaehyun",
+        "era": "Vogue",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KECVOG1",
+        "urlImage": "Kbot/Kepler/Vogue/Chaehyun/Chaehyun.png",
+        "fountain": "Kbot",
+        "identifirer": "Chaehyun_Vogue_Kep1er_Kbot"
+    },
+    {
+        "idolName": "Xiaoting",
+        "era": "Vogue",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KEXVOG1",
+        "urlImage": "Kbot/Kepler/Vogue/Xiaoting/Xiaoting.png",
+        "fountain": "Kbot",
+        "identifirer": "Xiaoting_Vogue_Kep1er_Kbot"
+    },
+    {
+        "idolName": "Yeri",
+        "era": "Bloom",
+        "groupKpop": "Red Velvet",
+        "rarity": 1,
+        "code": "REYBLO1",
+        "urlImage": "Kbot/RedVelvet/Bloom/Yeri/Yeri.png",
+        "fountain": "Kbot",
+        "identifirer": "Yeri_Bloom_RedVelvet_Kbot"
+    },
+    {
+        "idolName": "Seulgi",
+        "era": "Feel My Rhythm",
+        "groupKpop": "Red Velvet",
+        "rarity": 1,
+        "code": "RESFMTH1",
+        "urlImage": "Kbot/RedVelvet/FeelMyRhythm/Seulgi/Seulgi.png",
+        "fountain": "Kbot",
+        "identifirer": "Seulgi_FeelMyRhythm_RedVelvet_Kbot"
+    },
+    {
+        "idolName": "Wendy",
+        "era": "Feel My Rhythm",
+        "groupKpop": "Red Velvet",
+        "rarity": 1,
+        "code": "REWFMTH1",
+        "urlImage": "Kbot/RedVelvet/FeelMyRhythm/Wendy/Wendy.png",
+        "fountain": "Kbot",
+        "identifirer": "Wendy_FeelMyRhythm_RedVelvet_Kbot"
+    },
+    {
+        "idolName": "Seulgi",
+        "era": "Perfect Velvet",
+        "groupKpop": "Red Velvet",
+        "rarity": 1,
+        "code": "RESPVE1",
+        "urlImage": "Kbot/RedVelvet/PerfectVelvet/Seulgi/Seulgi.png",
+        "fountain": "Kbot",
+        "identifirer": "Seulgi_PerfectVelvet_RedVelvet_Kbot"
+    },
+    {
+        "idolName": "Irene",
+        "era": "Rookie",
+        "groupKpop": "Red Velvet",
+        "rarity": 1,
+        "code": "REIROO1",
+        "urlImage": "Kbot/RedVelvet/Rookie/Irene/Irene.png",
+        "fountain": "Kbot",
+        "identifirer": "Irene_Rookie_RedVelvet_Kbot"
+    },
+    {
+        "idolName": "Irene",
+        "era": "Russian Roulette",
+        "groupKpop": "Red Velvet",
+        "rarity": 1,
+        "code": "REIRRU1",
+        "urlImage": "Kbot/RedVelvet/RussianRoulette/Irene/Irene.png",
+        "fountain": "Kbot",
+        "identifirer": "Irene_RussianRoulette_RedVelvet_Kbot"
+    },
+    {
+        "idolName": "Joy",
+        "era": "Russian Roulette",
+        "groupKpop": "Red Velvet",
+        "rarity": 1,
+        "code": "REJRRU1",
+        "urlImage": "Kbot/RedVelvet/RussianRoulette/Joy/Joy.png",
+        "fountain": "Kbot",
+        "identifirer": "Joy_RussianRoulette_RedVelvet_Kbot"
+    },
+    {
+        "idolName": "Joy",
+        "era": "SG2022",
+        "groupKpop": "Red Velvet",
+        "rarity": 1,
+        "code": "REJSG20221",
+        "urlImage": "Kbot/RedVelvet/SG2022/Joy/Joy.png",
+        "fountain": "Kbot",
+        "identifirer": "Joy_SG2022_RedVelvet_Kbot"
+    },
+    {
+        "idolName": "Seulgi",
+        "era": "The Red Summer",
+        "groupKpop": "Red Velvet",
+        "rarity": 1,
+        "code": "RESTRSU1",
+        "urlImage": "Kbot/RedVelvet/TheRedSummer/Seulgi/Seulgi.png",
+        "fountain": "Kbot",
+        "identifirer": "Seulgi_TheRedSummer_RedVelvet_Kbot"
+    },
+    {
+        "idolName": "Wendy",
+        "era": "The Red Summer",
+        "groupKpop": "Red Velvet",
+        "rarity": 1,
+        "code": "REWTRSU1",
+        "urlImage": "Kbot/RedVelvet/TheRedSummer/Wendy/Wendy.png",
+        "fountain": "Kbot",
+        "identifirer": "Wendy_TheRedSummer_RedVelvet_Kbot"
+    },
+    {
+        "idolName": "Karina",
+        "era": "Forever",
+        "groupKpop": "Aespa",
+        "rarity": 1,
+        "code": "AEKFOR1",
+        "urlImage": "Kbot/Aespa/Forever/Karina/Karina.png",
+        "fountain": "Kbot",
+        "identifirer": "Karina_Forever_Aespa_Kbot"
+    },
+    {
+        "idolName": "Minnie",
+        "era": "2",
+        "groupKpop": "GIDLE",
+        "rarity": 1,
+        "code": "GIMINI21",
+        "urlImage": "Kbot/Gidle/2/Minnie/Minnie.png",
+        "fountain": "Kbot",
+        "identifirer": "Minnie_2_Gidle_Kbot"
+    },
+    {
+        "idolName": "Miyeon",
+        "era": "2",
+        "groupKpop": "GIDLE",
+        "rarity": 1,
+        "code": "GIMIYE21",
+        "urlImage": "Kbot/Gidle/2/Miyeon/Miyeon.png",
+        "fountain": "Kbot",
+        "identifirer": "Miyeon_2_Gidle_Kbot"
+    },
+    {
+        "idolName": "Shuhua",
+        "era": "2",
+        "groupKpop": "GIDLE",
+        "rarity": 1,
+        "code": "GISHU21",
+        "urlImage": "Kbot/Gidle/2/Shuhua/Shuhua.png",
+        "fountain": "Kbot",
+        "identifirer": "Shuhua_2_Gidle_Kbot"
+    },
+    {
+        "idolName": "Soojin",
+        "era": "Dumdi-Dumdi",
+        "groupKpop": "GIDLE",
+        "rarity": 1,
+        "code": "GISDDU21",
+        "urlImage": "Kbot/Gidle/DUMDI/Soojin/Soojin.png",
+        "fountain": "Kbot",
+        "identifirer": "Soojin_Dumdi-Dumdi_Gidle_Kbot"
+    },
+    {
+        "idolName": "Soyeon",
+        "era": "Heat",
+        "groupKpop": "GIDLE",
+        "rarity": 1,
+        "code": "GIMHEA21",
+        "urlImage": "Kbot/Gidle/Heat/Soyeon/Soyeon.png",
+        "fountain": "Kbot",
+        "identifirer": "Soyeon_Heat_Gidle_Kbot"
+    },
+    {
+        "idolName": "Minnie",
+        "era": "I Love",
+        "groupKpop": "GIDLE",
+        "rarity": 1,
+        "code": "GIMILO21",
+        "urlImage": "Kbot/Gidle/ILove/Minnie/MinnieV2.png",
+        "fountain": "Kbot",
+        "identifirer": "Minnie_ILove_Gidle_Kbot"
+    },    
+    {
+        "idolName": "Minnie",
+        "era": "I Trust",
+        "groupKpop": "GIDLE",
+        "rarity": 1,
+        "code": "GIMITR21",
+        "urlImage": "Kbot/Gidle/ITrust/Minnie/Minnie.png",
+        "fountain": "Kbot",
+        "identifirer": "Minnie_ITrust_Gidle_Kbot"
+    },
+    {
+        "idolName": "Chaewon",
+        "era": "Dispatch",
+        "groupKpop": "Lesserafim",
+        "rarity": 1,
+        "code": "LECDIS1",
+        "urlImage": "Kbot/Lesserafim/Dispatch/Chaewon/Chaewon.png",
+        "fountain": "Kbot",
+        "identifirer": "Chaewon_Dispatch_Lesserafim_Kbot"
+    },
+    {
+        "idolName": "Kazuha",
+        "era": "Fearless",
+        "groupKpop": "Lesserafim",
+        "rarity": 1,
+        "code": "LEKFEA1",
+        "urlImage": "Kbot/Lesserafim/Fearless/Kazuha/KazuhaV2.png",
+        "fountain": "Kbot",
+        "identifirer": "Kazuha_Fearless_Lesserafim_Kbot"
+    },
+    {
+        "idolName": "Sakura",
+        "era": "PreDebut",
+        "groupKpop": "Lesserafim",
+        "rarity": 1,
+        "code": "LESP1",
+        "urlImage": "Kbot/Lesserafim/PreDebut/Sakura/Sakura.png",
+        "fountain": "Kbot",
+        "identifirer": "Sakura_PreDebut_Lesserafim_Kbot"
+    },
+    {
+        "idolName": "Yeri",
+        "era": "The Red Summer",
+        "groupKpop": "Red Velvet",
+        "rarity": 1,
+        "code": "REYTRSU1",
+        "urlImage": "Kbot/RedVelvet/TheRedSummer/Yeri/Yeri.png",
+        "fountain": "Kbot",
+        "identifirer": "Yeri_TheRedSummer_RedVelvet_Kbot"
+    },
+    {
+        "idolName": "Seulgi",
+        "era": "UmpahUmpah",
+        "groupKpop": "Red Velvet",
+        "rarity": 1,
+        "code": "RESUMUM1",
+        "urlImage": "Kbot/RedVelvet/UMPAH/Seulgi/Seulgi.png",
+        "fountain": "Kbot",
+        "identifirer": "Seulgi_UmpahUmpah_RedVelvet_Kbot"
+    },
+    {
+        "idolName": "Miyeon",
+        "era": "Dumdi-Dumdi",
+        "groupKpop": "GIDLE",
+        "rarity": 1,
+        "code": "GIMDUM1",
+        "urlImage": "Garam/Gidle/DUMDI/Miyeon/Miyeon.gif",
+        "fountain": "Garam",
+        "identifirer": "Miyeon_Dumdi-Dumdi_Gidle_Garam_1"
+    },
+    {
+        "idolName": "Soojin",
+        "era": "Dumdi-Dumdi",
+        "groupKpop": "GIDLE",
+        "rarity": 1,
+        "code": "GISOjDUM1",
+        "urlImage": "Garam/Gidle/DUMDI/Soojin/Soojin.gif",
+        "fountain": "Garam",
+        "identifirer": "Soojin_Dumdi-Dumdi_Gidle_Garam_1"
+    },
+    {
+        "idolName": "Shuhua",
+        "era": "Dumdi-Dumdi",
+        "groupKpop": "GIDLE",
+        "rarity": 1,
+        "code": "GISHDUM1",
+        "urlImage": "Garam/Gidle/DUMDI/Shuhua/Shuhua.gif",
+        "fountain": "Garam",
+        "identifirer": "Shuhua_Dumdi-Dumdi_Gidle_Garam_1"
+    },
+    {
+        "idolName": "Minnie",
+        "era": "Heat",
+        "groupKpop": "GIDLE",
+        "rarity": 1,
+        "code": "GIMINH1",
+        "urlImage": "Garam/Gidle/Heat/Minnie/Minnie.gif",
+        "fountain": "Garam",
+        "identifirer": "Minnie_Heat_Gidle_Garam_1"
+    },
+    {
+        "idolName": "Soyeon",
+        "era": "Heat",
+        "groupKpop": "GIDLE",
+        "rarity": 1,
+        "code": "GISOYH1",
+        "urlImage": "Garam/Gidle/Heat/Soyeon/Soyeon.gif",
+        "fountain": "Garam",
+        "identifirer": "Soyeon_Heat_Gidle_Garam_1"
+    },
+    {
+        "idolName": "Shuhua",
+        "era": "Heat",
+        "groupKpop": "GIDLE",
+        "rarity": 1,
+        "code": "GISHUH1",
+        "urlImage": "Garam/Gidle/Heat/Shuhua/Shuhua.gif",
+        "fountain": "Garam",
+        "identifirer": "Shuhua_Heat_Gidle_Garam_1"
+    },
+    {
+        "idolName": "Shuhua",
+        "era": "Heat",
+        "groupKpop": "GIDLE",
+        "rarity": 3,
+        "code": "GISHUH3",
+        "urlImage": "Garam/Gidle/Heat/Shuhua/Shuhua3.gif",
+        "fountain": "Garam",
+        "identifirer": "Shuhua_Heat_Gidle_Garam_3"
+    },
+    {
+        "idolName": "Miyeon",
+        "era": "Heat",
+        "groupKpop": "GIDLE",
+        "rarity": 3,
+        "code": "GIMIH3",
+        "urlImage": "Garam/Gidle/Heat/Miyeon/Miyeon.gif",
+        "fountain": "Garam",
+        "identifirer": "Miyeon_Heat_Gidle_Garam_1"
+    },
+    {
+        "idolName": "Yuqi",
+        "era": "Heat",
+        "groupKpop": "GIDLE",
+        "rarity": 3,
+        "code": "GIYUH3",
+        "urlImage": "Garam/Gidle/Heat/Yuqi/Yuqi.gif",
+        "fountain": "Garam",
+        "identifirer": "Yuqi_Heat_Gidle_Garam_1"
+    },
+    {
+        "idolName": "Soojin",
+        "era": "I Burn",
+        "groupKpop": "GIDLE",
+        "rarity": 1,
+        "code": "GISOJB1",
+        "urlImage": "Garam/Gidle/IBurn/Soojin/Soojin.gif",
+        "fountain": "Garam",
+        "identifirer": "Soojin_IBurn_Gidle_Garam_1"
+    },
+    {
+        "idolName": "Shuhua",
+        "era": "I Burn",
+        "groupKpop": "GIDLE",
+        "rarity": 1,
+        "code": "GISHUB1",
+        "urlImage": "Garam/Gidle/IBurn/Shuhua/Shuhua.gif",
+        "fountain": "Garam",
+        "identifirer": "Shuhua_IBurn_Gidle_Garam_1"
+    },
+    {
+        "idolName": "Yuqi",
+        "era": "I Burn",
+        "groupKpop": "GIDLE",
+        "rarity": 1,
+        "code": "GIYUQB1",
+        "urlImage": "Garam/Gidle/IBurn/Yuqi/Yuqi.gif",
+        "fountain": "Garam",
+        "identifirer": "Yuqi_IBurn_Gidle_Garam_1"
+    },
+    {
+        "idolName": "Soyeon",
+        "era": "I Feel",
+        "groupKpop": "GIDLE",
+        "rarity": 1,
+        "code": "GISOYF1",
+        "urlImage": "Garam/Gidle/IFeel/Soyeon/Soyeon.gif",
+        "fountain": "Garam",
+        "identifirer": "Soyeon_IFeel_Gidle_Garam_1"
+    },
+    {
+        "idolName": "Yuqi",
+        "era": "I Feel",
+        "groupKpop": "GIDLE",
+        "rarity": 1,
+        "code": "GIYUQF1",
+        "urlImage": "Garam/Gidle/IFeel/Yuqi/Yuqi.gif",
+        "fountain": "Garam",
+        "identifirer": "Yuqi_IFeel_Gidle_Garam_1"
+    },
+    {
+        "idolName": "Shuhua",
+        "era": "I Feel",
+        "groupKpop": "GIDLE",
+        "rarity": 1,
+        "code": "GISHUF1",
+        "urlImage": "Garam/Gidle/IFeel/Shuhua/Shuhua.gif",
+        "fountain": "Garam",
+        "identifirer": "Shuhua_IFeel_Gidle_Garam_1"
+    },
+    {
+        "idolName": "Miyeon",
+        "era": "I Feel",
+        "groupKpop": "GIDLE",
+        "rarity": 1,
+        "code": "GIMIYF1",
+        "urlImage": "Garam/Gidle/IFeel/Miyeon/Miyeon.gif",
+        "fountain": "Garam",
+        "identifirer": "Miyeon_IFeel_Gidle_Garam_1"
+    },
+    {
+        "idolName": "Minnie",
+        "era": "I Made",
+        "groupKpop": "GIDLE",
+        "rarity": 3,
+        "code": "GIMINM1",
+        "urlImage": "Garam/Gidle/IMade/Minnie/Minnie3.gif",
+        "fountain": "Garam",
+        "identifirer": "Minnie_IMade_Gidle_Garam_3"
+    },
+    {
+        "idolName": "Miyeon",
+        "era": "I Made",
+        "groupKpop": "GIDLE",
+        "rarity": 1,
+        "code": "GIMIYM1",
+        "urlImage": "Garam/Gidle/IMade/Miyeon/Miyeon.gif",
+        "fountain": "Garam",
+        "identifirer": "Miyeon_IMade_Gidle_Garam_1"
+    },
+    {
+        "idolName": "Shuhua",
+        "era": "I Made",
+        "groupKpop": "GIDLE",
+        "rarity": 1,
+        "code": "GISHUM1",
+        "urlImage": "Garam/Gidle/IMade/Shuhua/Shuhua.gif",
+        "fountain": "Garam",
+        "identifirer": "Shuhua_IMade_Gidle_Garam_1"
+    },
+    {
+        "idolName": "Soyeon",
+        "era": "I Made",
+        "groupKpop": "GIDLE",
+        "rarity": 3,
+        "code": "GISOYM3",
+        "urlImage": "Garam/Gidle/IMade/Soyeon/Soyeon3.gif",
+        "fountain": "Garam",
+        "identifirer": "Soyeon_IMade_Gidle_Garam_3"
+    },
+    {
+        "idolName": "Soojin",
+        "era": "I Made",
+        "groupKpop": "GIDLE",
+        "rarity": 1,
+        "code": "GISOJM1",
+        "urlImage": "Garam/Gidle/IMade/Soojin/Soojin.gif",
+        "fountain": "Garam",
+        "identifirer": "Soojin_IMade_Gidle_Garam_1"
+    },
+    {
+        "idolName": "Shuhua",
+        "era": "I Never Die",
+        "groupKpop": "GIDLE",
+        "rarity": 1,
+        "code": "GISHUNV1",
+        "urlImage": "Garam/Gidle/INeverDie/Shuhua/Shuhua.gif",
+        "fountain": "Garam",
+        "identifirer": "Shuhua_INeverDie_Gidle_Garam_1"
+    },
+    {
+        "idolName": "Yuqi",
+        "era": "I Never Die",
+        "groupKpop": "GIDLE",
+        "rarity": 1,
+        "code": "GIYUQNV1",
+        "urlImage": "Garam/Gidle/INeverDie/Yuqi/Yuqi.gif",
+        "fountain": "Garam",
+        "identifirer": "Yuqi_INeverDie_Gidle_Garam_1"
+    },
+    {
+        "idolName": "Minnie",
+        "era": "I Never Die",
+        "groupKpop": "GIDLE",
+        "rarity": 1,
+        "code": "GIMINNV1",
+        "urlImage": "Garam/Gidle/INeverDie/Minnie/Minnie.gif",
+        "fountain": "Garam",
+        "identifirer": "Minnie_INeverDie_Gidle_Garam_1"
+    },
+    {
+        "idolName": "Hanni",
+        "era": "Gods",
+        "groupKpop": "New Jeans",
+        "rarity": 1,
+        "code": "NWHAG1",
+        "urlImage": "Garam/NewJeans/Gods/Hanni/hanni.gif",
+        "fountain": "Garam",
+        "identifirer": "Hanni_Gods_NewJeans_Garam_1"
+    },
+    {
+        "idolName": "Minji",
+        "era": "Gods",
+        "groupKpop": "New Jeans",
+        "rarity": 1,
+        "code": "NWMIG1",
+        "urlImage": "Garam/NewJeans/Gods/Minji/Minji.gif",
+        "fountain": "Garam",
+        "identifirer": "Minji_Gods_NewJeans_Garam_1"
+    },
+    {
+        "idolName": "Danielle",
+        "era": "Gods",
+        "groupKpop": "New Jeans",
+        "rarity": 1,
+        "code": "NWDAG1",
+        "urlImage": "Garam/NewJeans/Gods/Danielle/Danielle.gif",
+        "fountain": "Garam",
+        "identifirer": "Danielle_Gods_NewJeans_Garam_1"
+    },
+    {
+        "idolName": "Haerin",
+        "era": "Gods",
+        "groupKpop": "New Jeans",
+        "rarity": 1,
+        "code": "NWHAEG1",
+        "urlImage": "Garam/NewJeans/Gods/Haerin/Haerin.gif",
+        "fountain": "Garam",
+        "identifirer": "Haerin_Gods_NewJeans_Garam_1"
+    },
+    {
+        "idolName": "Hyein",
+        "era": "Gods",
+        "groupKpop": "New Jeans",
+        "rarity": 1,
+        "code": "NWHYG1",
+        "urlImage": "Garam/NewJeans/Gods/Hyein/Hyein.gif",
+        "fountain": "Garam",
+        "identifirer": "Hyein_Gods_NewJeans_Garam_1"
+    },
+    {
+        "idolName": "Haerin",
+        "era": "San Valentin",
+        "groupKpop": "New Jeans",
+        "rarity": 2,
+        "code": "NWHAESAN2",
+        "urlImage": "Garam/NewJeans/SanValentin/Haerin/Haerin.gif",
+        "fountain": "Garam",
+        "identifirer": "Haerin_SanValentin_NewJeans_Garam_2"
+    },
+    {
+        "idolName": "Xiaoting",
+        "era": "Trouble Shooter",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KEXTS1",
+        "urlImage": "Garam/Kepler/Troubleshooter/Xiaoting/Xiaoting.gif",
+        "fountain": "Garam",
+        "identifirer": "Xiaoting_Troubleshooter_Kep1er_Garam_1"
+    },
+    {
+        "idolName": "Bahiyyih",
+        "era": "Trouble Shooter",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KEBATS1",
+        "urlImage": "Garam/Kepler/Troubleshooter/Bahiyyih/Bahiyyih.png",
+        "fountain": "Garam",
+        "identifirer": "Bahiyyih_Troubleshooter_Kep1er_Garam_1"
+    },
+    {
+        "idolName": "Chaehyun",
+        "era": "Trouble Shooter",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KECHATS1",
+        "urlImage": "Garam/Kepler/Troubleshooter/Chaehyun/Chaehyun.png",
+        "fountain": "Garam",
+        "identifirer": "Chaehyun_Troubleshooter_Kep1er_Garam_1"
+    },
+    {
+        "idolName": "Dayeon",
+        "era": "Trouble Shooter",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KEDATS1",
+        "urlImage": "Garam/Kepler/Troubleshooter/Dayeon/Dayeon.png",
+        "fountain": "Garam",
+        "identifirer": "Dayeon_Troubleshooter_Kep1er_Garam_1"
+    },
+    {
+        "idolName": "Mashiro",
+        "era": "Trouble Shooter",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KEMATS1",
+        "urlImage": "Garam/Kepler/Troubleshooter/Mashiro/Mashiro.png",
+        "fountain": "Garam",
+        "identifirer": "Mashiro_Troubleshooter_Kep1er_Garam_1"
+    },
+    {
+        "idolName": "Yeseo",
+        "era": "Trouble Shooter",
+        "groupKpop": "Kep1er",
+        "rarity": 1,
+        "code": "KEYETS1",
+        "urlImage": "Garam/Kepler/Troubleshooter/Yeseo/Yeseo.png",
+        "fountain": "Garam",
+        "identifirer": "Yeseo_Troubleshooter_Kep1er_Garam_1"
+    },
+    {
+        "idolName": "Haneul",
+        "era": "Midas Touch",
+        "groupKpop": "Kiss of Life",
+        "rarity": 1,
+        "code": "KIHAMT1",
+        "urlImage": "Garam/KissofLife/MidasTouch/Haneul/Haneul.gif",
+        "fountain": "Garam",
+        "identifirer": "Haneul_MidasTouch_KissofLife_Garam_1"
+    },
+    {
+        "idolName": "Belle",
+        "era": "Midas Touch",
+        "groupKpop": "Kiss of Life",
+        "rarity": 1,
+        "code": "KIBEMT1",
+        "urlImage": "Garam/KissofLife/MidasTouch/Belle/Belle.gif",
+        "fountain": "Garam",
+        "identifirer": "Belle_MidasTouch_KissofLife_Garam_1"
+    },
+    {
+        "idolName": "Julie",
+        "era": "Midas Touch",
+        "groupKpop": "Kiss of Life",
+        "rarity": 1,
+        "code": "KIJUMT1",
+        "urlImage": "Garam/KissofLife/MidasTouch/Julie/Julie.gif",
+        "fountain": "Garam",
+        "identifirer": "Julie_MidasTouch_KissofLife_Garam_1"
+    },
+    {
+        "idolName": "Natty",
+        "era": "Midas Touch",
+        "groupKpop": "Kiss of Life",
+        "rarity": 1,
+        "code": "KINAMT1",
+        "urlImage": "Garam/KissofLife/MidasTouch/Natty/Natty.gif",
+        "fountain": "Garam",
+        "identifirer": "Natty_MidasTouch_KissofLife_Garam_1"
+    },
+    {
+        "idolName": "Eunchae",
+        "era": "Fearless",
+        "groupKpop": "Lesserafim",
+        "rarity": 2,
+        "code": "LEEF2",
+        "urlImage": "Garam/Lesserafim/Fearless/Eunchae/Eunchae.gif",
+        "fountain": "Garam",
+        "identifirer": "Eunchae_Fearless_Lesserafim_Garam_2"
+    },
+    {
+        "idolName": "Eunchae",
+        "era": "Unforgiven",
+        "groupKpop": "Lesserafim",
+        "rarity": 1,
+        "code": "LEEU1",
+        "urlImage": "Garam/Lesserafim/Unforgiven/Eunchae/Eunchae.gif",
+        "fountain": "Garam",
+        "identifirer": "Eunchae_Unforgiven_Lesserafim_Garam_1"
+    },
+    {
+        "idolName": "Yunjin",
+        "era": "Unforgiven",
+        "groupKpop": "Lesserafim",
+        "rarity": 1,
+        "code": "LEYU1",
+        "urlImage": "Garam/Lesserafim/Unforgiven/Yunjin/Yunjin.gif",
+        "fountain": "Garam",
+        "identifirer": "Yunjin_Unforgiven_Lesserafim_Garam_1"
+    },
+    {
+        "idolName": "Haewon",
+        "era": "Entwurf",
+        "groupKpop": "Nmixx",
+        "rarity": 1,
+        "code": "NMHAEN1",
+        "urlImage": "Garam/Nmixx/Entwurf/Haewon/Haewon.gif",
+        "fountain": "Garam",
+        "identifirer": "Haewon_Entwurf_Nmixx_Garam_1"
+    },
+    {
+        "idolName": "Haewon",
+        "era": "Xpergo",
+        "groupKpop": "Nmixx",
+        "rarity": 1,
+        "code": "NMHAXP1",
+        "urlImage": "Garam/Nmixx/Xpergo/Haewon/Haewon.gif",
+        "fountain": "Garam",
+        "identifirer": "Haewon_Xpergo_Nmixx_Garam_1"
+    },
+    {
+        "idolName": "Jiwoo",
+        "era": "3D",
+        "groupKpop": "Nmixx",
+        "rarity": 1,
+        "code": "NMJI3D1",
+        "urlImage": "Garam/Nmixx/3D/Jiwoo/Jiwoo.gif",
+        "fountain": "Garam",
+        "identifirer": "Jiwoo_3D_Nmixx_Garam_1"
+    },
+    {
+        "idolName": "Joy",
+        "era": "Happiness",
+        "groupKpop": "Red Velvet",
+        "rarity": 1,
+        "code": "RDJH1",
+        "urlImage": "Garam/RedVelvet/Happiness/Joy/Joy.gif",
+        "fountain": "Garam",
+        "identifirer": "Joy_Happiness_RedVelvet_Garam_1"
+    },
+    {
+        "idolName": "Wendy",
+        "era": "Wish You Hell",
+        "groupKpop": "Red Velvet",
+        "rarity": 1,
+        "code": "RDWWYH1",
+        "urlImage": "Garam/RedVelvet/WishYouHell/Wendy/Wendy.gif",
+        "fountain": "Garam",
+        "identifirer": "Wendy_WishYouHell_RedVelvet_Garam_1"
+    },
+    {
+        "idolName": "Momo",
+        "era": "3D",
+        "groupKpop": "Twice",
+        "rarity": 3,
+        "code": "TWM3D3",
+        "urlImage": "Garam/Twice/3D/Momo/Momo.gif",
+        "fountain": "Garam",
+        "identifirer": "Momo_3D_Twice_Garam_1"
+    },
+    {
+        "idolName": "Tzuyu",
+        "era": "3D",
+        "groupKpop": "Twice",
+        "rarity": 3,
+        "code": "TWT3D3",
+        "urlImage": "Garam/Twice/3D/Tzuyu/Tzuyu.gif",
+        "fountain": "Garam",
+        "identifirer": "Tzuyu_3D_Twice_Garam_1"
+    },
+    {
+        "idolName": "Momo",
+        "era": "Barbie",
+        "groupKpop": "Twice",
+        "rarity": 2,
+        "code": "TWMBA2",
+        "urlImage": "Garam/Twice/Barbie/Momo/Momo.png",
+        "fountain": "Garam",
+        "identifirer": "Momo_Barbie_Twice_Garam_2"
+    },
+    {
+        "idolName": "Sana",
+        "era": "Doughnut",
+        "groupKpop": "Twice",
+        "rarity": 1,
+        "code": "TWSDO1",
+        "urlImage": "Garam/Twice/Doughnut/Sana/Sana.gif",
+        "fountain": "Garam",
+        "identifirer": "Sana_Doughnut_Twice_Garam_1"
+    },
+    {
+        "idolName": "Jihyo",
+        "era": "Feel Special",
+        "groupKpop": "Twice",
+        "rarity": 1,
+        "code": "TWJFS1",
+        "urlImage": "Garam/Twice/FeelSpecial/Jihyo/Jihyo.gif",
+        "fountain": "Garam",
+        "identifirer": "Jihyo_FeelSpecial_Twice_Garam_1"
+    },
+    {
+        "idolName": "Nayeon",
+        "era": "Hare Hare",
+        "groupKpop": "Twice",
+        "rarity": 1,
+        "code": "TWNHH1",
+        "urlImage": "Garam/Twice/HareHare/Nayeon/Nayeon.gif",
+        "fountain": "Garam",
+        "identifirer": "Nayeon_HareHare_Twice_Garam_1"
+    },
+    {
+        "idolName": "Chaeyoung",
+        "era": "Hare Hare",
+        "groupKpop": "Twice",
+        "rarity": 1,
+        "code": "TWCHH1",
+        "urlImage": "Garam/Twice/HareHare/Chaeyoung/Chaeyoung.gif",
+        "fountain": "Garam",
+        "identifirer": "Chaeyoung_HareHare_Twice_Garam_1"
+    },
+    {
+        "idolName": "Nayeon",
+        "era": "More More",
+        "groupKpop": "Twice",
+        "rarity": 1,
+        "code": "TWNMM1",
+        "urlImage": "Garam/Twice/More/Nayeon/Nayeon.gif",
+        "fountain": "Garam",
+        "identifirer": "Nayeon_MoreMore_Twice_Garam_1"
+    },
+    {
+        "idolName": "Dahyun",
+        "era": "More More",
+        "groupKpop": "Twice",
+        "rarity": 1,
+        "code": "TWDMM1",
+        "urlImage": "Garam/Twice/More/Dahyun/Dahyun.gif",
+        "fountain": "Garam",
+        "identifirer": "Dahyun_MoreMore_Twice_Garam_1"
+    },
+    {
+        "idolName": "Natzu",
+        "era": "Ship",
+        "groupKpop": "Twice",
+        "rarity": 2,
+        "code": "TWNATSH2",
+        "urlImage": "Garam/Twice/Ship/Natzu/Natzu.gif",
+        "fountain": "Garam",
+        "identifirer": "Natzu_Ship_Twice_Garam_2"
+    },
+    {
+        "idolName": "Mimo",
+        "era": "Ship",
+        "groupKpop": "Twice",
+        "rarity": 2,
+        "code": "TWMIMSH2",
+        "urlImage": "Garam/Twice/Ship/Mimo/Mimo.gif",
+        "fountain": "Garam",
+        "identifirer": "Mimo_Ship_Twice_Garam_2"
+    },
+    {
+        "idolName": "Danielle",
+        "era": "Zero",
+        "groupKpop": "New Jeans",
+        "rarity": 1,
+        "code": "DANZERNE1",
+        "urlImage": "Garam/NewJeans/Zero/Danielle/Danielle.gif",
+        "fountain": "Garam",
+        "identifirer": "Danielle_Zero_NewJeans_Garam_1"
+    },
+    {
+        "idolName": "Haerin",
+        "era": "Zero",
+        "groupKpop": "New Jeans",
+        "rarity": 1,
+        "code": "HAEZERNE1",
+        "urlImage": "Garam/NewJeans/Zero/Haerin/Haerin.gif",
+        "fountain": "Garam",
+        "identifirer": "Haerin_Zero_NewJeans_Garam_1"
+    },
+    {
+        "idolName": "Haerin",
+        "era": "Zero",
+        "groupKpop": "New Jeans",
+        "rarity": 2,
+        "code": "HAEZERNE2",
+        "urlImage": "Garam/NewJeans/Zero/Haerin/Ha.gif",
+        "fountain": "Garam",
+        "identifirer": "Haerin_Zero_NewJeans_Garam_2"
+    },
+    {
+        "idolName": "Hanni",
+        "era": "Zero",
+        "groupKpop": "New Jeans",
+        "rarity": 1,
+        "code": "HANZERNE1",
+        "urlImage": "Garam/NewJeans/Zero/Hanni/Hanni.gif",
+        "fountain": "Garam",
+        "identifirer": "Hanni_Zero_NewJeans_Garam_1"
+    },
+    {
+        "idolName": "Hyein",
+        "era": "Zero",
+        "groupKpop": "New Jeans",
+        "rarity": 1,
+        "code": "HYEZERNE1",
+        "urlImage": "Garam/NewJeans/Zero/Hyein/Hyein.gif",
+        "fountain": "Garam",
+        "identifirer": "Hyein_Zero_NewJeans_Garam_1"
+    },
+    {
+        "idolName": "Minji",
+        "era": "Zero",
+        "groupKpop": "New Jeans",
+        "rarity": 1,
+        "code": "MINZERNE1",
+        "urlImage": "Garam/NewJeans/Zero/Minji/Minji.gif",
+        "fountain": "Garam",
+        "identifirer": "Minji_Zero_NewJeans_Garam_1"
+    },
+    {
+        "idolName": "Giselle",
+        "era": "Better Things",
+        "groupKpop": "Aespa",
+        "rarity": 1,
+        "code": "AEGIBT1",
+        "urlImage": "Garam/Aespa/BetterThings/Giselle/Giselle.gif",
+        "fountain": "Garam",
+        "identifirer": "Giselle_BetterThings_Aespa_Garam_1"
+    },
+    {
+        "idolName": "Ningning",
+        "era": "Better Things",
+        "groupKpop": "Aespa",
+        "rarity": 1,
+        "code": "AENIBT1",
+        "urlImage": "Garam/Aespa/BetterThings/Ningning/Ningning.gif",
+        "fountain": "Garam",
+        "identifirer": "Ningning_BetterThings_Aespa_Garam_1"
+    },
+    {
+        "idolName": "Winter",
+        "era": "Better Things",
+        "groupKpop": "Aespa",
+        "rarity": 1,
+        "code": "AEWIBT1",
+        "urlImage": "Garam/Aespa/BetterThings/Winter/Winter.gif",
+        "fountain": "Garam",
+        "identifirer": "Winter_BetterThings_Aespa_Garam_1"
+    },
+    {
+        "idolName": "Winter3",
+        "era": "Better Things",
+        "groupKpop": "Aespa",
+        "rarity": 3,
+        "code": "AEWIBT3",
+        "urlImage": "Garam/Aespa/BetterThings/Winter/Winter3.gif",
+        "fountain": "Garam",
+        "identifirer": "Winter3_BetterThings_Aespa_Garam_3"
+    },
+    {
+        "idolName": "Ningning",
+        "era": "Forever",
+        "groupKpop": "Aespa",
+        "rarity": 2,
+        "code": "AESNINFOR2",
+        "urlImage": "Garam/Aespa/Forever/Ningning/Ningning2.gif",
+        "fountain": "Garam",
+        "identifirer": "Ningning_Forever_Aespa_Garam_2"
+    },
+    {
+        "idolName": "Winter",
+        "era": "Forever",
+        "groupKpop": "Aespa",
+        "rarity": 3,
+        "code": "AESWINFOR3",
+        "urlImage": "Garam/Aespa/Forever/Winter/Winter3.gif",
+        "fountain": "Garam",
+        "identifirer": "Winter_Forever_Aespa_Garam_3"
+    },
+    {
+        "idolName": "Karina",
+        "era": "My World",
+        "groupKpop": "Aespa",
+        "rarity": 1,
+        "code": "AESKARMY1",
+        "urlImage": "Garam/Aespa/MyWorld/Karina/Karina.gif",
+        "fountain": "Garam",
+        "identifirer": "Karina_MyWorld_Aespa_Garam_1"
+    },
+    {
+        "idolName": "Ningning",
+        "era": "My World",
+        "groupKpop": "Aespa",
+        "rarity": 1,
+        "code": "AESNINMY1",
+        "urlImage": "Garam/Aespa/MyWorld/Ningning/Ningning.gif",
+        "fountain": "Garam",
+        "identifirer": "Ningning_MyWorld_Aespa_Garam_1"
+    },
+    {
+        "idolName": "Winter",
+        "era": "My World",
+        "groupKpop": "Aespa",
+        "rarity": 3,
+        "code": "AESWINMY3",
+        "urlImage": "Garam/Aespa/MyWorld/Winter/Winter3.gif",
+        "fountain": "Garam",
+        "identifirer": "Winter_MyWorld_Aespa_Garam_3"
+    },
+    {
+        "idolName": "Ningning",
+        "era": "Pets",
+        "groupKpop": "Aespa",
+        "rarity": 2,
+        "code": "AESNINPE2",
+        "urlImage": "Garam/Aespa/Pets/Ningning/Ningning2.png",
+        "fountain": "Garam",
+        "identifirer": "Ningning_Pets_Aespa_Garam_2"
+    },
+    {
+        "idolName": "Ningning",
+        "era": "Sanrio",
+        "groupKpop": "Aespa",
+        "rarity": 2,
+        "code": "AESNINSA2",
+        "urlImage": "Garam/Aespa/Sanrio/Ningning/Ningning2.gif",
+        "fountain": "Garam",
+        "identifirer": "Ningning_Sanrio_Aespa_Garam_2"
+    },
+    {
+        "idolName": "Karina",
+        "era": "San Valentin",
+        "groupKpop": "Aespa",
+        "rarity": 2,
+        "code": "AESKARSAN1",
+        "urlImage": "Garam/Aespa/SanValentin/Karina/Karina.gif",
+        "fountain": "Garam",
+        "identifirer": "Karina_SanValentin_Aespa_Garam_2"
+    },
+    {
+        "idolName": "Winter",
+        "era": "Savage",
+        "groupKpop": "Aespa",
+        "rarity": 1,
+        "code": "AESWINSAV3",
+        "urlImage": "Garam/Aespa/Savage/Winter/Winter.gif",
+        "fountain": "Garam",
+        "identifirer": "Winter_Savage_Aespa_Garam_1"
+    },
+    {
+        "idolName": "Karin",
+        "era": "Kofi",
+        "groupKpop": "Alice",
+        "rarity": 2,
+        "code": "ALKAKOFI2",
+        "urlImage": "Garam/Alice/Kofi/Karin/Karin.gif",
+        "fountain": "Garam",
+        "identifirer": "Karin_Kofi_Alice_Garam_2"
+    },
+    {
+        "idolName": "Chiquita",
+        "era": "Booster",
+        "groupKpop": "Baby Monster",
+        "rarity": 2,
+        "code": "BACHBOS2",
+        "urlImage": "Garam/BabyMonster/Booster/Chiquita/Chiquita.gif",
+        "fountain": "Garam",
+        "identifirer": "Chiquita_Booster_BabyMonster_Garam_2"
+    },
+    {
+        "idolName": "Rora",
+        "era": "Booster",
+        "groupKpop": "Baby Monster",
+        "rarity": 2,
+        "code": "BAROBOS2",
+        "urlImage": "Garam/BabyMonster/Booster/Rora/Rora.gif",
+        "fountain": "Garam",
+        "identifirer": "Rora_Booster_BabyMonster_Garam_2"
+    },
+    {
+        "idolName": "Rose",
+        "era": "Barbie",
+        "groupKpop": "Black Pink",
+        "rarity": 2,
+        "code": "BPROBAR2",
+        "urlImage": "Garam/BlackPink/Barbie/Rose/Rose2.png",
+        "fountain": "Garam",
+        "identifirer": "Rose_Barbie_BlackPink_Garam_2"
+    },
+    {
+        "idolName": "Jisoo",
+        "era": "Booster",
+        "groupKpop": "Black Pink",
+        "rarity": 2,
+        "code": "BPJIBOS2",
+        "urlImage": "Garam/BlackPink/Booster/Jisoo/Jisoo2.gif",
+        "fountain": "Garam",
+        "identifirer": "Jisoo_Booster_BlackPink_Garam_2"
+    },
+    {
+        "idolName": "Jisoo",
+        "era": "Halloween",
+        "groupKpop": "Black Pink",
+        "rarity": 2,
+        "code": "BPJIHA2",
+        "urlImage": "Garam/BlackPink/Halloween/Jisoo/Jisoo2.gif",
+        "fountain": "Garam",
+        "identifirer": "Jisoo_Halloween_BlackPink_Garam_2"
+    },
+    {
+        "idolName": "Jennie",
+        "era": "Ice Cream",
+        "groupKpop": "Black Pink",
+        "rarity": 1,
+        "code": "BPLIIC1",
+        "urlImage": "Garam/BlackPink/IceCream/Jennie/Jennie.gif",
+        "fountain": "Garam",
+        "identifirer": "Jennie_IceCream_BlackPink_Garam_1"
+    },
+    {
+        "idolName": "Jennie",
+        "era": "Ice Cream",
+        "groupKpop": "Black Pink",
+        "rarity": 3,
+        "code": "BPLIIC3",
+        "urlImage": "Garam/BlackPink/IceCream/Jennie/Jennie3.gif",
+        "fountain": "Garam",
+        "identifirer": "Jennie_IceCream_BlackPink_Garam_3"
+    },
+    {
+        "idolName": "Lisa",
+        "era": "Ice Cream",
+        "groupKpop": "Black Pink",
+        "rarity": 1,
+        "code": "BPLIIC1",
+        "urlImage": "Garam/BlackPink/IceCream/Lisa/Lisa.gif",
+        "fountain": "Garam",
+        "identifirer": "Lisa_IceCream_BlackPink_Garam_1"
+    },
+    {
+        "idolName": "Jisoo",
+        "era": "Ice Cream",
+        "groupKpop": "Black Pink",
+        "rarity": 1,
+        "code": "BPJIIC1",
+        "urlImage": "Garam/BlackPink/IceCream/Jisoo/Jisoo.gif",
+        "fountain": "Garam",
+        "identifirer": "Jisoo_IceCream_BlackPink_Garam_1"
+    },
+    {
+        "idolName": "Jisoo",
+        "era": "Ice Cream",
+        "groupKpop": "Black Pink",
+        "rarity": 3,
+        "code": "BPJIIC3",
+        "urlImage": "Garam/BlackPink/IceCream/Jisoo/Jisoo3.gif",
+        "fountain": "Garam",
+        "identifirer": "Jisoo_IceCream_BlackPink_Garam_3"
+    },
+    {
+        "idolName": "Jisoo",
+        "era": "Flower",
+        "groupKpop": "Black Pink",
+        "rarity": 3,
+        "code": "BPJIFLO3",
+        "urlImage": "Garam/BlackPink/Flower/Jisoo/Jisoo3.png",
+        "fountain": "Garam",
+        "identifirer": "Jisoo_Flower_BlackPink_Garam_3"
+    },
+    {
+        "idolName": "Lisa",
+        "era": "Money",
+        "groupKpop": "Black Pink",
+        "rarity": 1,
+        "code": "BPLIM1",
+        "urlImage": "Garam/BlackPink/Lalisa/Money/Lisa.png",
+        "fountain": "Garam",
+        "identifirer": "Lisa_Money_BlackPink_Garam_1"
+    },
+    {
+        "idolName": "Jennie",
+        "era": "Lighstick",
+        "groupKpop": "Black Pink",
+        "rarity": 1,
+        "code": "BPJELI2",
+        "urlImage": "Garam/BlackPink/Lighstick/Jennie/Jennie.png",
+        "fountain": "Garam",
+        "identifirer": "Jennie_Lighstick_BlackPink_Garam_1"
+    },
+    {
+        "idolName": "Jennie",
+        "era": "Oreo",
+        "groupKpop": "Black Pink",
+        "rarity": 1,
+        "code": "BPJEOR1",
+        "urlImage": "Garam/BlackPink/Oreo/Jennie/Jennie.png",
+        "fountain": "Garam",
+        "identifirer": "Jennie_Oreo_BlackPink_Garam_1"
+    },
+    {
+        "idolName": "Jisoo",
+        "era": "Oreo",
+        "groupKpop": "Black Pink",
+        "rarity": 1,
+        "code": "BPJIOR1",
+        "urlImage": "Garam/BlackPink/Oreo/Jisoo/Jisoo.png",
+        "fountain": "Garam",
+        "identifirer": "Jisoo_Oreo_BlackPink_Garam_1"
+    },
+    {
+        "idolName": "Lisa",
+        "era": "Oreo",
+        "groupKpop": "Black Pink",
+        "rarity": 1,
+        "code": "BPLIOR1",
+        "urlImage": "Garam/BlackPink/Oreo/Lisa/Lisa.png",
+        "fountain": "Garam",
+        "identifirer": "Lisa_Oreo_BlackPink_Garam_1"
+    },
+    {
+        "idolName": "Lisa",
+        "era": "Oreo",
+        "groupKpop": "Black Pink",
+        "rarity": 2,
+        "code": "BPLIOR2",
+        "urlImage": "Garam/BlackPink/Oreo/Lisa/Lisa2.png",
+        "fountain": "Garam",
+        "identifirer": "Lisa_Oreo_BlackPink_Garam_2"
+    },
+    {
+        "idolName": "Rose",
+        "era": "Oreo",
+        "groupKpop": "Black Pink",
+        "rarity": 1,
+        "code": "BPROOR1",
+        "urlImage": "Garam/BlackPink/Oreo/Rose/Rose.png",
+        "fountain": "Garam",
+        "identifirer": "Rose_Oreo_BlackPink_Garam_1"
+    },
+    {
+        "idolName": "Rose",
+        "era": "Oreo",
+        "groupKpop": "Black Pink",
+        "rarity": 2,
+        "code": "BPROOR2",
+        "urlImage": "Garam/BlackPink/Oreo/Rose/Rose2.png",
+        "fountain": "Garam",
+        "identifirer": "Rose_Oreo_BlackPink_Garam_2"
+    },
+    {
+        "idolName": "Lisa",
+        "era": "Pets",
+        "groupKpop": "Black Pink",
+        "rarity": 2,
+        "code": "BPLIPE1",
+        "urlImage": "Garam/BlackPink/Pets/Lisa/Lisa2.png",
+        "fountain": "Garam",
+        "identifirer": "Lisa_Pets_BlackPink_Garam_2"
+    },
+    {
+        "idolName": "Chaennie",
+        "era": "Ship",
+        "groupKpop": "Black Pink",
+        "rarity": 2,
+        "code": "BPCHAS1",
+        "urlImage": "Garam/BlackPink/Ship/Chaennie/Chaennie2.gif",
+        "fountain": "Garam",
+        "identifirer": "Chaennie_Ship_BlackPink_Garam_2"
+    },
+    {
+        "idolName": "Jensoo",
+        "era": "Ship",
+        "groupKpop": "Black Pink",
+        "rarity": 2,
+        "code": "BPJESS1",
+        "urlImage": "Garam/BlackPink/Ship/Jensoo/Jensoo2.gif",
+        "fountain": "Garam",
+        "identifirer": "Jensoo_Ship_BlackPink_Garam_2"
+    },
+    {
+        "idolName": "Lisoo",
+        "era": "Ship",
+        "groupKpop": "Black Pink",
+        "rarity": 2,
+        "code": "BPLISS1",
+        "urlImage": "Garam/BlackPink/Ship/Lisoo/Lisoo2.gif",
+        "fountain": "Garam",
+        "identifirer": "Lisoo_Ship_BlackPink_Garam_2"
+    },
+    {
+        "idolName": "Jennie",
+        "era": "Square Two",
+        "groupKpop": "Black Pink",
+        "rarity": 1,
+        "code": "BPJEST1",
+        "urlImage": "Garam/BlackPink/SquareTwo/Jennie/Jennie.gif",
+        "fountain": "Garam",
+        "identifirer": "Jennie_SquareOne_BlackPink_Garam_1"
+    },
+    {
+        "idolName": "Jisoo",
+        "era": "Square Two",
+        "groupKpop": "Black Pink",
+        "rarity": 1,
+        "code": "BPJIST1",
+        "urlImage": "Garam/BlackPink/SquareTwo/Jisoo/Jisoo.gif",
+        "fountain": "Garam",
+        "identifirer": "Jisoo_SquareOne_BlackPink_Garam_1"
+    },
+    {
+        "idolName": "Lisa",
+        "era": "Square Two",
+        "groupKpop": "Black Pink",
+        "rarity": 1,
+        "code": "BPLIST1",
+        "urlImage": "Garam/BlackPink/SquareTwo/Lisa/Lisa.gif",
+        "fountain": "Garam",
+        "identifirer": "Lisa_SquareOne_BlackPink_Garam_1"
+    },
+    {
+        "idolName": "Rose",
+        "era": "Square Two",
+        "groupKpop": "Black Pink",
+        "rarity": 1,
+        "code": "BPROST1",
+        "urlImage": "Garam/BlackPink/SquareTwo/Rose/Rose.gif",
+        "fountain": "Garam",
+        "identifirer": "Rose_SquareOne_BlackPink_Garam_1"
+    },
+    {
+        "idolName": "Shuhua",
+        "era": "Coquette",
+        "groupKpop": "GIDLE",
+        "rarity": 2,
+        "code": "GISHCO2",
+        "urlImage": "Garam/Gidle/Coquette/Shuhua/Shuhua2.gif",
+        "fountain": "Garam",
+        "identifirer": "Shuhua_Coquette_Gidle_Garam_2"
+    },
+    {
+        "idolName": "Yuqi",
+        "era": "Happy Birthday",
+        "groupKpop": "GIDLE",
+        "rarity": 1,
+        "code": "GIYUHB1",
+        "urlImage": "Garam/Gidle/HappyBirthday/Yuqi/Yuqi.png",
+        "fountain": "Garam",
+        "identifirer": "Yuqi_HappyBirthday_Gidle_Garam_1"
+    },
+    {
+        "idolName": "Yuqi",
+        "era": "I Love",
+        "groupKpop": "GIDLE",
+        "rarity": 2,
+        "code": "GIYUQLO1",
+        "urlImage": "Garam/Gidle/ILove/Yuqi/Yuqi2.gif",
+        "fountain": "Garam",
+        "identifirer": "Yuqi_ILove_Gidle_Garam_2"
+    },
+    {
+        "idolName": "Yuqi",
+        "era": "I Love",
+        "groupKpop": "GIDLE",
+        "rarity": 3,
+        "code": "GIYUQLO1",
+        "urlImage": "Garam/Gidle/ILove/Yuqi/Yuqi3.gif",
+        "fountain": "Garam",
+        "identifirer": "Yuqi_ILove_Gidle_Garam_3"
+    },
+    {
+        "idolName": "Soyeon",
+        "era": "I Love",
+        "groupKpop": "GIDLE",
+        "rarity": 1,
+        "code": "GISOYLO1",
+        "urlImage": "Garam/Gidle/ILove/Soyeon/Soyeon.gif",
+        "fountain": "Garam",
+        "identifirer": "Soyeon_ILove_Gidle_Garam_1"
+    },
+    {
+        "idolName": "Shuhua",
+        "era": "I Trust",
+        "groupKpop": "GIDLE",
+        "rarity": 1,
+        "code": "GISHUIT1",
+        "urlImage": "Garam/Gidle/ITrust/Shuhua/Shuhua.gif",
+        "fountain": "Garam",
+        "identifirer": "Shuhua_ITrust_Gidle_Garam_1"
+    },
+    {
+        "idolName": "Minnie",
+        "era": "I Trust",
+        "groupKpop": "GIDLE",
+        "rarity": 1,
+        "code": "GIMINIT1",
+        "urlImage": "Garam/Gidle/ITrust/Minnie/Minnie.gif",
+        "fountain": "Garam",
+        "identifirer": "Minnie_ITrust_Gidle_Garam_1"
+    },
+    {
+        "idolName": "Miyeon",
+        "era": "I Trust",
+        "groupKpop": "GIDLE",
+        "rarity": 1,
+        "code": "GIMIYIT1",
+        "urlImage": "Garam/Gidle/ITrust/Miyeon/Miyeon.gif",
+        "fountain": "Garam",
+        "identifirer": "Miyeon_ITrust_Gidle_Garam_1"
+    },
+    {
+        "idolName": "Soojin",
+        "era": "I Trust",
+        "groupKpop": "GIDLE",
+        "rarity": 1,
+        "code": "GISOJIT1",
+        "urlImage": "Garam/Gidle/ITrust/Soojin/Soojin.gif",
+        "fountain": "Garam",
+        "identifirer": "Soojin_ITrust_Gidle_Garam_1"
+    },
+    {
+        "idolName": "Yuqi",
+        "era": "I Trust",
+        "groupKpop": "GIDLE",
+        "rarity": 1,
+        "code": "GIYUQIT1",
+        "urlImage": "Garam/Gidle/ITrust/Yuqi/Yuqi.gif",
+        "fountain": "Garam",
+        "identifirer": "Yuqi_ITrust_Gidle_Garam_1"
+    },
+    {
+        "idolName": "Yuqi",
+        "era": "San Valentin",
+        "groupKpop": "GIDLE",
+        "rarity": 2,
+        "code": "GIYUQSV2",
+        "urlImage": "Garam/Gidle/SanValentin/Yuqi/Yuqi2.gif",
+        "fountain": "Garam",
+        "identifirer": "Yuqi_SanValentin_Gidle_Garam_2"
+    },
+    {
+        "idolName": "Mishu",
+        "era": "Ship",
+        "groupKpop": "GIDLE",
+        "rarity": 2,
+        "code": "GIMISS2",
+        "urlImage": "Garam/Gidle/Ship/Mishu/Mishu2.gif",
+        "fountain": "Garam",
+        "identifirer": "Mishu_Ship_Gidle_Garam_2"
+    },
+    {
+        "idolName": "Sooshu",
+        "era": "Ship",
+        "groupKpop": "GIDLE",
+        "rarity": 2,
+        "code": "GISOSS2",
+        "urlImage": "Garam/Gidle/Ship/Sooshu/Sooshu2.gif",
+        "fountain": "Garam",
+        "identifirer": "Sooshu_Ship_Gidle_Garam_2"
+    },
+    {
+        "idolName": "Yeonjin",
+        "era": "Ship",
+        "groupKpop": "GIDLE",
+        "rarity": 2,
+        "code": "GIYENS2",
+        "urlImage": "Garam/Gidle/Ship/Yeonjin/Yeonjin2.gif",
+        "fountain": "Garam",
+        "identifirer": "Yeonjin_Ship_Gidle_Garam_2"
+    },
+    {
+        "idolName": "Yeqi",
+        "era": "Ship",
+        "groupKpop": "GIDLE",
+        "rarity": 2,
+        "code": "GIYEQS2",
+        "urlImage": "Garam/Gidle/Ship/Yeqi/Yeqi2.gif",
+        "fountain": "Garam",
+        "identifirer": "Yeqi_Ship_Gidle_Garam_2"
+    },
+    {
+        "idolName": "Soyeon",
+        "era": "Verano",
+        "groupKpop": "GIDLE",
+        "rarity": 2,
+        "code": "GISOYVE2",
+        "urlImage": "Garam/Gidle/Verano/Soyeon/Soyeon2.png",
+        "fountain": "Garam",
+        "identifirer": "Soyeon_Verano_Gidle_Garam_2"
+    },
+    {
+        "idolName": "Iroha",
+        "era": "Booster",
+        "groupKpop": "Illit",
+        "rarity": 2,
+        "code": "ILIRBO2",
+        "urlImage": "Garam/Illit/Booster/Iroha/Iroha2.gif",
+        "fountain": "Garam",
+        "identifirer": "Iroha_Booster_Illit_Garam_2"
+    },
+    {
+        "idolName": "Iroha",
+        "era": "Kofi",
+        "groupKpop": "Illit",
+        "rarity": 2,
+        "code": "ILIRKO2",
+        "urlImage": "Garam/Illit/Kofi/Iroha/Iroha2.gif",
+        "fountain": "Garam",
+        "identifirer": "Iroha_Kofi_Illit_Garam_2"
+    },
+    {
+        "idolName": "Chaeryeong",
+        "era": "Born To Be",
+        "groupKpop": "Itzy",
+        "rarity": 1,
+        "code": "ITCHABO1",
+        "urlImage": "Garam/Itzy/BornToBe/Chaeryeong/Chaeryeong.gif",
+        "fountain": "Garam",
+        "identifirer": "Chaeryeong_BornToBE_Itzy_Garam_1"
+    },
+    {
+        "idolName": "Yeji",
+        "era": "Born To Be",
+        "groupKpop": "Itzy",
+        "rarity": 1,
+        "code": "ITYEJBO1",
+        "urlImage": "Garam/Itzy/BornToBe/Yeji/Yeji.gif",
+        "fountain": "Garam",
+        "identifirer": "Yeji_BornToBE_Itzy_Garam_1"
+    },
+    {
+        "idolName": "Yeji",
+        "era": "Born To Be",
+        "groupKpop": "Itzy",
+        "rarity": 2,
+        "code": "ITYEJBO2",
+        "urlImage": "Garam/Itzy/BornToBe/Yeji/Yeji2.gif",
+        "fountain": "Garam",
+        "identifirer": "Yeji_BornToBE_Itzy_Garam_2"
+    },
+    {
+        "idolName": "Yuna",
+        "era": "Born To Be",
+        "groupKpop": "Itzy",
+        "rarity": 1,
+        "code": "ITYUNBO1",
+        "urlImage": "Garam/Itzy/BornToBe/Yuna/Yuna.gif",
+        "fountain": "Garam",
+        "identifirer": "Yuna_BornToBE_Itzy_Garam_1"
+    },
+    {
+        "idolName": "Yeji",
+        "era": "Checkmate",
+        "groupKpop": "Itzy",
+        "rarity": 1,
+        "code": "ITYEJCH1",
+        "urlImage": "Garam/Itzy/Checkmate/Yeji/Yeji.gif",
+        "fountain": "Garam",
+        "identifirer": "Yeji_Checkmate_Itzy_Garam_1"
+    },
+    {
+        "idolName": "Chaeryeong",
+        "era": "Checkmate",
+        "groupKpop": "Itzy",
+        "rarity": 1,
+        "code": "ITCHACH1",
+        "urlImage": "Garam/Itzy/Checkmate/Chaeryeong/Chaeryeong.gif",
+        "fountain": "Garam",
+        "identifirer": "Chaeryeong_Checkmate_Itzy_Garam_1"
+    },
+    {
+        "idolName": "Yeji",
+        "era": "Crazy In Love",
+        "groupKpop": "Itzy",
+        "rarity": 1,
+        "code": "ITYEJCIL1",
+        "urlImage": "Garam/Itzy/CrazyInLove/Yeji/Yeji.gif",
+        "fountain": "Garam",
+        "identifirer": "Yeji_CrazyInLove_Itzy_Garam_1"
+    },
+    {
+        "idolName": "Yeji",
+        "era": "Crazy In Love",
+        "groupKpop": "Itzy",
+        "rarity": 3,
+        "code": "ITYEJCIL3",
+        "urlImage": "Garam/Itzy/CrazyInLove/Yeji/Yeji3.gif",
+        "fountain": "Garam",
+        "identifirer": "Yeji_CrazyInLove_Itzy_Garam_3"
+    },
+    {
+        "idolName": "Yuna",
+        "era": "Crazy In Love",
+        "groupKpop": "Itzy",
+        "rarity": 1,
+        "code": "ITYUNCIL1",
+        "urlImage": "Garam/Itzy/CrazyInLove/Yuna/Yuna.gif",
+        "fountain": "Garam",
+        "identifirer": "Yuna_CrazyInLove_Itzy_Garam_1"
+    },
+    {
+        "idolName": "Lia",
+        "era": "Different",
+        "groupKpop": "Itzy",
+        "rarity": 2,
+        "code": "ITLIADI1",
+        "urlImage": "Garam/Itzy/Different/Lia/Lia2.png",
+        "fountain": "Garam",
+        "identifirer": "Lia_Different_Itzy_Garam_2"
+    },
+    {
+        "idolName": "Lia",
+        "era": "It Different",
+        "groupKpop": "Itzy",
+        "rarity": 1,
+        "code": "ITLIAID1",
+        "urlImage": "Garam/Itzy/ItDifferent/Lia/Lia.png",
+        "fountain": "Garam",
+        "identifirer": "Lia_ItDifferent_Itzy_Garam_1"
+    },
+    {
+        "idolName": "Lia",
+        "era": "Itz Icy",
+        "groupKpop": "Itzy",
+        "rarity": 1,
+        "code": "ITLIAITI1",
+        "urlImage": "Garam/Itzy/ItzIcy/Lia/Lia.png",
+        "fountain": "Garam",
+        "identifirer": "Lia_ItzIcy_Itzy_Garam_1"
+    },
+    {
+        "idolName": "Ryujin",
+        "era": "Itz Icy",
+        "groupKpop": "Itzy",
+        "rarity": 1,
+        "code": "ITRYUITI1",
+        "urlImage": "Garam/Itzy/ItzIcy/Ryujin/Ryujin.png",
+        "fountain": "Garam",
+        "identifirer": "Ryujin_ItzIcy_Itzy_Garam_1"
+    },
+    {
+        "idolName": "Yeji",
+        "era": "Itz Icy",
+        "groupKpop": "Itzy",
+        "rarity": 1,
+        "code": "ITYEJITI1",
+        "urlImage": "Garam/Itzy/ItzIcy/Yeji/Yeji.png",
+        "fountain": "Garam",
+        "identifirer": "Yeji_ItzIcy_Itzy_Garam_1"
+    },
+    {
+        "idolName": "Yeji",
+        "era": "Itz Icy",
+        "groupKpop": "Itzy",
+        "rarity": 2,
+        "code": "ITYEJITI2",
+        "urlImage": "Garam/Itzy/ItzIcy/Yeji/Yeji2.png",
+        "fountain": "Garam",
+        "identifirer": "Yeji_ItzIcy_Itzy_Garam_2"
+    },
+    {
+        "idolName": "Yuna",
+        "era": "Itz Icy",
+        "groupKpop": "Itzy",
+        "rarity": 1,
+        "code": "ITYUNITI1",
+        "urlImage": "Garam/Itzy/ItzIcy/Yuna/Yuna.png",
+        "fountain": "Garam",
+        "identifirer": "Yuna_ItzIcy_Itzy_Garam_1"
+    },
+    {
+        "idolName": "Yuna",
+        "era": "Itz Me",
+        "groupKpop": "Itzy",
+        "rarity": 2,
+        "code": "ITYUNITM1",
+        "urlImage": "Garam/Itzy/ItzMe/Yuna/Yuna2.png",
+        "fountain": "Garam",
+        "identifirer": "Yuna_ItzMe_Itzy_Garam_2"
+    },
+    {
+        "idolName": "Ryujin",
+        "era": "Itz Me",
+        "groupKpop": "Itzy",
+        "rarity": 1,
+        "code": "ITRYUITI1",
+        "urlImage": "Garam/Itzy/ItzMe/Ryujin/Ryujin.png",
+        "fountain": "Garam",
+        "identifirer": "Ryujin_ItzMe_Itzy_Garam_1"
+    },
+    {
+        "idolName": "Yeji",
+        "era": "Kill My Doubt",
+        "groupKpop": "Itzy",
+        "rarity": 1,
+        "code": "ITYEJKMD1",
+        "urlImage": "Garam/Itzy/KillMyDoubt/Yeji/Yeji.gif",
+        "fountain": "Garam",
+        "identifirer": "Yeji_KillMyDoubt_Itzy_Garam_1"
+    },
+    {
+        "idolName": "Chaeryeong",
+        "era": "Kill Me Doubt",
+        "groupKpop": "Itzy",
+        "rarity": 3,
+        "code": "ITCHAKMD3",
+        "urlImage": "Garam/Itzy/KillMyDoubt/Chaeryeong/Chaeryeong3.gif",
+        "fountain": "Garam",
+        "identifirer": "Chaeryeong_KillMyDoubt_Itzy_Garam_3"
+    },
+    {
+        "idolName": "Lia",
+        "era": "Kill My Doubt",
+        "groupKpop": "Itzy",
+        "rarity": 1,
+        "code": "ITLIAKMD1",
+        "urlImage": "Garam/Itzy/KillMyDoubt/Lia/Lia.gif",
+        "fountain": "Garam",
+        "identifirer": "Lia_KillMyDoubt_Itzy_Garam_1"
+    },
+    {
+        "idolName": "Yuna",
+        "era": "Kill My Doubt",
+        "groupKpop": "Itzy",
+        "rarity": 1,
+        "code": "ITYUNKMD1",
+        "urlImage": "Garam/Itzy/KillMyDoubt/Yuna/Yuna.gif",
+        "fountain": "Garam",
+        "identifirer": "Yuna_KillMyDoubt_Itzy_Garam_1"
+    },
+    {
+        "idolName": "Yuna",
+        "era": "Kill My Doubt",
+        "groupKpop": "Itzy",
+        "rarity": 2,
+        "code": "ITYUNKMD2",
+        "urlImage": "Garam/Itzy/KillMyDoubt/Yuna/Yuna2.gif",
+        "fountain": "Garam",
+        "identifirer": "Yuna_KillMyDoubt_Itzy_Garam_2"
+    },
+    {
+        "idolName": "Lia",
+        "era": "Not Shy",
+        "groupKpop": "Itzy",
+        "rarity": 1,
+        "code": "ITLIANS1",
+        "urlImage": "Garam/Itzy/NotShy/Lia/Lia.gif",
+        "fountain": "Garam",
+        "identifirer": "Lia_NotShy_Itzy_Garam_1"
+    },
+    {
+        "idolName": "Yuna",
+        "era": "Not Shy",
+        "groupKpop": "Itzy",
+        "rarity": 1,
+        "code": "ITYUNNS1",
+        "urlImage": "Garam/Itzy/NotShy/Yuna/Yuna.gif",
+        "fountain": "Garam",
+        "identifirer": "Yuna_NotShy_Itzy_Garam_1"
+    },
+    {
+        "idolName": "Lia",
+        "era": "Pride",
+        "groupKpop": "Itzy",
+        "rarity": 2,
+        "code": "ITLIAPR2",
+        "urlImage": "Garam/Itzy/Pride/Lia/Lia2.png",
+        "fountain": "Garam",
+        "identifirer": "Lia_Pride_Itzy_Garam_2"
+    },
+    {
+        "idolName": "Yuna",
+        "era": "Pride",
+        "groupKpop": "Itzy",
+        "rarity": 2,
+        "code": "ITYUNPR2",
+        "urlImage": "Garam/Itzy/Pride/Yuna/Yuna2.png",
+        "fountain": "Garam",
+        "identifirer": "Yuna_Pride_Itzy_Garam_2"
+    },
+    {
+        "idolName": "Chaeryeong",
+        "era": "Ringo",
+        "groupKpop": "Itzy",
+        "rarity": 1,
+        "code": "ITCHAR1",
+        "urlImage": "Garam/Itzy/Ringo/Chaeryeong/Chaeryeong.png",
+        "fountain": "Garam",
+        "identifirer": "Chaeryeong_Ringo_Itzy_Garam_1"
+    },
+    {
+        "idolName": "Yeji",
+        "era": "Ringo",
+        "groupKpop": "Itzy",
+        "rarity": 1,
+        "code": "ITYEJR1",
+        "urlImage": "Garam/Itzy/Ringo/Yeji/Yeji.png",
+        "fountain": "Garam",
+        "identifirer": "Yeji_Ringo_Itzy_Garam_1"
+    },
+    {
+        "idolName": "Yuna",
+        "era": "Ringo",
+        "groupKpop": "Itzy",
+        "rarity": 1,
+        "code": "ITYUNR1",
+        "urlImage": "Garam/Itzy/Ringo/Yuna/Yuna.png",
+        "fountain": "Garam",
+        "identifirer": "Yuna_Ringo_Itzy_Garam_1"
+    },
+    {
+        "idolName": "Lia",
+        "era": "San Valentin",
+        "groupKpop": "Itzy",
+        "rarity": 2,
+        "code": "ITLIASV1",
+        "urlImage": "Garam/Itzy/SanValentin/Lia/Lia2.gif",
+        "fountain": "Garam",
+        "identifirer": "Lia_SanValentin_Itzy_Garam_2"
+    },
+    {
+        "idolName": "Ryujin",
+        "era": "San Valentin",
+        "groupKpop": "Itzy",
+        "rarity": 2,
+        "code": "ITRYUSV1",
+        "urlImage": "Garam/Itzy/SanValentin/Ryujin/Ryujin2.gif",
+        "fountain": "Garam",
+        "identifirer": "Ryujin_SanValentin_Itzy_Garam_2"
+    },
+    {
+        "idolName": "Ryujin",
+        "era": "Voltage",
+        "groupKpop": "Itzy",
+        "rarity": 1,
+        "code": "ITRYUV1",
+        "urlImage": "Garam/Itzy/Voltage/Ryujin/Ryujin.png",
+        "fountain": "Garam",
+        "identifirer": "Ryujin_Voltage_Itzy_Garam_1"
+    },
+    {
+        "idolName": "2Shin",
+        "era": "Ship",
+        "groupKpop": "Itzy",
+        "rarity": 2,
+        "code": "IT2SSH1",
+        "urlImage": "Garam/Itzy/Ship/2Shin/2Shin2.gif",
+        "fountain": "Garam",
+        "identifirer": "2Shin_Ship_Itzy_Garam_2"
+    },
+    {
+        "idolName": "Chaerji",
+        "era": "Ship",
+        "groupKpop": "Itzy",
+        "rarity": 2,
+        "code": "ITCHRSH1",
+        "urlImage": "Garam/Itzy/Ship/Chaerji/Chaerji2.gif",
+        "fountain": "Garam",
+        "identifirer": "Chaerji_Ship_Itzy_Garam_2"
+    },
+    {
+        "idolName": "Yulia",
+        "era": "Ship",
+        "groupKpop": "Itzy",
+        "rarity": 2,
+        "code": "ITYULSH1",
+        "urlImage": "Garam/Itzy/Ship/Yulia/Yulia2.gif",
+        "fountain": "Garam",
+        "identifirer": "Yulia_Ship_Itzy_Garam_2"
+    },
+    {
+        "idolName": "Leeseo",
+        "era": "After Like",
+        "groupKpop": "Ive",
+        "rarity": 1,
+        "code": "IVLA1",
+        "urlImage": "Garam/Ive/AfterLike/Leeseo/Leeseo.gif",
+        "fountain": "Garam",
+        "identifirer": "Leeseo_AfterLike_Ive_Garam_1"
+    }, 
+    {
+        "idolName": "Gaeul",
+        "era": "Booster",
+        "groupKpop": "Ive",
+        "rarity": 2,
+        "code": "IVGABO2",
+        "urlImage": "Garam/Ive/Booster/Gaeul/Gaeul2.gif",
+        "fountain": "Garam",
+        "identifirer": "Gaeul_Booster_Ive_Garam_2"
+    },
+    {
+        "idolName": "Wonyoung",
+        "era": "Fan Meeting",
+        "groupKpop": "Ive",
+        "rarity": 2,
+        "code": "IVWONFM2",
+        "urlImage": "Garam/Ive/FanMeeting/Wonyoung/Wonyoung2.png",
+        "fountain": "Garam",
+        "identifirer": "Wonyoung_FanMeeting_Ive_Garam_2"
+    },
+    {
+        "idolName": "Yujin",
+        "era": "Happy Birthday",
+        "groupKpop": "Ive",
+        "rarity": 1,
+        "code": "IVYUHB1",
+        "urlImage": "Garam/Ive/HappyBirthday/Yujin/Yujin.png",
+        "fountain": "Garam",
+        "identifirer": "Yujin_HappyBirthday_Gidle_Garam_1"
+    },
+    {
+        "idolName": "Liz",
+        "era": "MinIve",
+        "groupKpop": "Ive",
+        "rarity": 1,
+        "code": "IVLIMI1",
+        "urlImage": "Garam/Ive/Minive/Liz/Liz.png",
+        "fountain": "Garam",
+        "identifirer": "Liz_MinIve_Ive_Garam_1"
+    },
+    {
+        "idolName": "Wonyoung",
+        "era": "Taco",
+        "groupKpop": "Ive",
+        "rarity": 2,
+        "code": "IVWONT2",
+        "urlImage": "Garam/Ive/Taco/Wonyoung/Wonyoung2.png",
+        "fountain": "Garam",
+        "identifirer": "Wonyoung_Taco_Ive_Garam_2"
+    },
+    {
+        "idolName": "Chaewon",
+        "era": "Booster",
+        "groupKpop": "Izone",
+        "rarity": 2,
+        "code": "IZCHABO2",
+        "urlImage": "Garam/Izone/Booster/Chaewon/Chaewon2.gif",
+        "fountain": "Garam",
+        "identifirer": "Chaewon_Booster_Izone_Garam_2"
+    },
+    {
+        "idolName": "Hyeyul",
+        "era": "Ship",
+        "groupKpop": "Izone",
+        "rarity": 2,
+        "code": "IZHYESH2",
+        "urlImage": "Garam/Izone/Ship/Hyeyul/Hyeyul2.gif",
+        "fountain": "Garam",
+        "identifirer": "Hyeyul_Ship_Izone_Garam_2"
+    },
+    {
+        "idolName": "Ahri",
+        "era": "Kda",
+        "groupKpop": "Kda",
+        "rarity": 1,
+        "code": "KDAHKD1",
+        "urlImage": "Garam/Kda/Kda/Ahri/Ahri.png",
+        "fountain": "Garam",
+        "identifirer": "Ahri_Kda_Kda_Garam_1"
+    },
+    {
+        "idolName": "Akali",
+        "era": "Kda",
+        "groupKpop": "Kda",
+        "rarity": 1,
+        "code": "KDAKKD1",
+        "urlImage": "Garam/Kda/Kda/Akali/Akali.png",
+        "fountain": "Garam",
+        "identifirer": "Akali_Kda_Kda_Garam_1"
+    },
+    {
+        "idolName": "Evelynn",
+        "era": "Kda",
+        "groupKpop": "Kda",
+        "rarity": 1,
+        "code": "KDEVKD1",
+        "urlImage": "Garam/Kda/Kda/Evelynn/Evelynn.png",
+        "fountain": "Garam",
+        "identifirer": "Evelynn_Kda_Kda_Garam_1"
+    },
+    {
+        "idolName": "Kaisa",
+        "era": "Kda",
+        "groupKpop": "Kda",
+        "rarity": 1,
+        "code": "KDKAKD1",
+        "urlImage": "Garam/Kda/Kda/Kaisa/Kaisa3.png",
+        "fountain": "Garam",
+        "identifirer": "Kaisa_Kda_Kda_Garam_3"
+    },
+    {
+        "idolName": "Chaehyun",
+        "era": "Booster",
+        "groupKpop": "Kep1er",
+        "rarity": 2,
+        "code": "KECHABO2",
+        "urlImage": "Garam/Kepler/Booster/Chaehyun/Chaehyun2.gif",
+        "fountain": "Garam",
+        "identifirer": "Chaehyun_Booster_Kep1er_Garam_2"
+    },
+    {
+        "idolName": "Xiaoting",
+        "era": "Booster",
+        "groupKpop": "Kep1er",
+        "rarity": 2,
+        "code": "KEXIABO2",
+        "urlImage": "Garam/Kepler/Booster/Xiaoting/Xiaoting2.gif",
+        "fountain": "Garam",
+        "identifirer": "Xiaoting_Booster_Kep1er_Garam_2"
+    },
+    {
+        "idolName": "Belle",
+        "era": "Born To Bexx",
+        "groupKpop": "Kiss Of Life",
+        "rarity": 1,
+        "code": "KIBEBTB1",
+        "urlImage": "Garam/KissOfLife/BornToBexx/Belle/Belle.png",
+        "fountain": "Garam",
+        "identifirer": "Belle_BornToBexx_KissOfLife_Garam_1"
+    },
+    {
+        "idolName": "Belle",
+        "era": "Born To Bexx",
+        "groupKpop": "Kiss Of Life",
+        "rarity": 3,
+        "code": "KIBEBTB3",
+        "urlImage": "Garam/KissOfLife/BornToBexx/Belle/Belle3.png",
+        "fountain": "Garam",
+        "identifirer": "Belle_BornToBexx_KissOfLife_Garam_3"
+    },
+    {
+        "idolName": "Haneul",
+        "era": "Born To Bexx",
+        "groupKpop": "Kiss Of Life",
+        "rarity": 1,
+        "code": "KIHABTB1",
+        "urlImage": "Garam/KissOfLife/BornToBexx/Haneul/Haneul.png",
+        "fountain": "Garam",
+        "identifirer": "Haneul_BornToBexx_KissOfLife_Garam_1"
+    },
+    {
+        "idolName": "Julie",
+        "era": "Born To Bexx",
+        "groupKpop": "Kiss Of Life",
+        "rarity": 1,
+        "code": "KIJUBTB1",
+        "urlImage": "Garam/KissOfLife/BornToBexx/Julie/Julie.png",
+        "fountain": "Garam",
+        "identifirer": "Julie_BornToBexx_KissOfLife_Garam_1"
+    },
+    {
+        "idolName": "Julie",
+        "era": "Born To Bexx",
+        "groupKpop": "Kiss Of Life",
+        "rarity": 2,
+        "code": "KIJUBTB3",
+        "urlImage": "Garam/KissOfLife/BornToBexx/Julie/Julie2.png",
+        "fountain": "Garam",
+        "identifirer": "Julie_BornToBexx_KissOfLife_Garam_2"
+    },
+    {
+        "idolName": "Natty",
+        "era": "Born To Bexx",
+        "groupKpop": "Kiss Of Life",
+        "rarity": 1,
+        "code": "KINABTB1",
+        "urlImage": "Garam/KissOfLife/BornToBexx/Natty/Natty.png",
+        "fountain": "Garam",
+        "identifirer": "Natty_BornToBexx_KissOfLife_Garam_1"
+    },
+    {
+        "idolName": "Natty",
+        "era": "Born To Bexx",
+        "groupKpop": "Kiss Of Life",
+        "rarity": 3,
+        "code": "KINABTB3",
+        "urlImage": "Garam/KissOfLife/BornToBexx/Natty/Natty3.png",
+        "fountain": "Garam",
+        "identifirer": "Natty_BornToBexx_KissOfLife_Garam_3"
+    },
+    {
+        "idolName": "Belle",
+        "era": "Kiss Of Life",
+        "groupKpop": "Kiss Of Life",
+        "rarity": 1,
+        "code": "KIBEKI1",
+        "urlImage": "Garam/KissOfLife/KissOfLife/Belle/Belle.png",
+        "fountain": "Garam",
+        "identifirer": "Belle_KissOfLife_KissOfLife_Garam_1"
+    },
+    {
+        "idolName": "Haneul",
+        "era": "Kiss Of Life",
+        "groupKpop": "Kiss Of Life",
+        "rarity": 1,
+        "code": "KIHAKI1",
+        "urlImage": "Garam/KissOfLife/KissOfLife/Haneul/Haneul.png",
+        "fountain": "Garam",
+        "identifirer": "Haneul_KissOfLife_KissOfLife_Garam_1"
+    },
+    {
+        "idolName": "Julie",
+        "era": "Kiss Of Life",
+        "groupKpop": "Kiss Of Life",
+        "rarity": 2,
+        "code": "KIJUKI2",
+        "urlImage": "Garam/KissOfLife/KissOfLife/Julie/Julie2.png",
+        "fountain": "Garam",
+        "identifirer": "Julie_KissOfLife_KissOfLife_Garam_2"
+    },
+    {
+        "idolName": "Julie",
+        "era": "Kiss Of Life",
+        "groupKpop": "Kiss Of Life",
+        "rarity": 3,
+        "code": "KIJUKI3",
+        "urlImage": "Garam/KissOfLife/KissOfLife/Julie/Julie3.png",
+        "fountain": "Garam",
+        "identifirer": "Julie_KissOfLife_KissOfLife_Garam_3"
+    },
+    {
+        "idolName": "Haneul",
+        "era": "Kofi",
+        "groupKpop": "Kiss Of Life",
+        "rarity": 2,
+        "code": "KIHAKO2",
+        "urlImage": "Garam/KissOfLife/Kofi/Haneul/Haneul2.gif",
+        "fountain": "Garam",
+        "identifirer": "Haneul_KissOfLife_KissOfLife_Garam_2"
+    },
+    {
+        "idolName": "Haneul",
+        "era": "Sanrio",
+        "groupKpop": "Kiss of Life",
+        "rarity": 2,
+        "code": "KIHASA2",
+        "urlImage": "Garam/KissofLife/Sanrio/Haneul/Haneul2.gif",
+        "fountain": "Garam",
+        "identifirer": "Haneul_MidasTouch_KissofLife_Garam_2"
+    }
+]
