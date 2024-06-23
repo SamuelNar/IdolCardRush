@@ -22,6 +22,7 @@ public class Carta {
     private String urlImage;
     private String fountain;
     private String identifirer;
+    private Boolean isDebut;
     @ManyToOne
     @JoinColumn(name = "user_id")
     private Usuario user;

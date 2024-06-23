@@ -115,7 +115,8 @@ public class UserControladores {
     @PostMapping("/work")
     public String work(HttpSession session, Model modelo, RedirectAttributes redirectAttributes) {
         Usuario user = traerUsuarioLogueado(session);
-        gameServicios.trabajo(user);
+        List<Carta> carta = userServicios.obtenerCartas(user);    
+        gameServicios.trabajo(user,carta);
         modelo.addAttribute("user", user);
         return "redirect:/user/panel";
     }
@@ -289,4 +290,28 @@ public class UserControladores {
         // Redirigir de vuelta a la página de perfil filtrado sin filtros aplicados
         return "redirect:/user/perfil/" + user.getId();
     }
+
+    @GetMapping("/debutar")
+    public String debut (HttpSession session, Model modelo, RedirectAttributes redirectAttributes){    
+        Usuario user = traerUsuarioLogueado(session);
+        List<Carta> cartas = userServicios.obtenerCartas(user);
+        modelo.addAttribute("cartas", cartas);
+        return "elegirCarta.html";
+    }
+
+    @PostMapping("/debutar")
+    public String debutar(HttpSession session, Model modelo, RedirectAttributes redirectAttributes, @RequestParam("id") Long id){
+        Usuario user = traerUsuarioLogueado(session);
+        Carta carta = cardServicios.obtenerCartaPorId(id);        
+        if (carta != null && carta.getUser().getId().equals(user.getId())){
+            userServicios.debutarCarta(user, carta);
+            carta.setIsDebut(!carta.getIsDebut());
+            cardServicios.guardarCarta(carta);
+            redirectAttributes.addFlashAttribute("Exito", "La carta ha debutodo con exito");
+        }else{
+            redirectAttributes.addFlashAttribute("Error", "La carta no ha debutado");
+        }        
+        return "redirect:/user/panel";
+    }
+    
 }

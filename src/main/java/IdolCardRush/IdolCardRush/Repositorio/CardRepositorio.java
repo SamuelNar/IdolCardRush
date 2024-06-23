@@ -28,6 +28,8 @@ public interface CardRepositorio extends JpaRepository<Carta, Long> {
 
     List<Carta> findByFountain(String fountain);
 
+    List<Carta> findByUserAndIsDebutTrue(Usuario user);
+
     boolean existsByIdentifirer(String identificadorUnico);
 
     @Query("SELECT c FROM Carta c WHERE c.user.id IS NULL AND c.fountain = :fountain")

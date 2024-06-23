@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .contenedor {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .card {
+            background-color: #444;
+            margin: 10px;
+            padding: 10px;
+            border-radius: 10px;
+            text-align: center;
+            width: 200px;
+        }
+
+        .card img {
+            width: 100%;
+            height: auto;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+        <h1>Elegir Carta</h1>
+        <div class="contenedor">
+            <div th:each="carta : ${cartas}" class="card"> 
+                <img class="aspect" th:src="@{/images/{rutaImagen}(rutaImagen=${carta.urlImage})}" alt="Imagen del idol">
+                <label th:text="${carta.idolName}"></label>
+                <form th:action="@{/user/debutar}" method="post">
+                    <input type="hidden" name="id" th:value="${carta.id}" />
+                    <button type="submit">Debutar</button>
+                </form>
+            </div>
+        </div>        
+</body>
+</html>

@@ -60,6 +60,7 @@ public class CardServicios {
                 nuevaCarta.setFountain(cartaAleatoria.getFountain());
                 nuevaCarta.setUser(null);
                 nuevaCarta.setIdentifirer(generarIdentificadorCarta(cartaAleatoria));
+                nuevaCarta.setIsDebut(false);
                 cartaRepositorio.save(nuevaCarta);
                 return nuevaCarta;
             } else {
@@ -79,6 +80,17 @@ public class CardServicios {
             return null;
         }
 
+    }
+
+    public Carta obtenerCartaPorId(Long id){
+        return cartaRepositorio.findById(id).orElse(null);
+    }
+
+    public List<Carta> obtenerCartasPorDebut(Usuario usuario){
+        return cartaRepositorio.findByUserAndIsDebutTrue(usuario);
+    }
+    public void guardarCarta(Carta carta){
+        cartaRepositorio.save(carta);
     }
 
     private String generarVarianteCartas(Carta carta) {

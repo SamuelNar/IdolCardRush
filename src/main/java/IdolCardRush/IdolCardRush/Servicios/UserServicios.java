@@ -66,6 +66,30 @@ public class UserServicios implements UserDetailsService {
             }
         }
     }
+
+    public List<Carta> obtenerCartas(Usuario user) {
+        Usuario usuario = userRepositorio.findById(user.getId()).orElse(null);
+        if (usuario != null) {
+            return usuario.getCard();
+        }else{
+            return null;
+        }
+    }
+
+    public void debutarCarta(Usuario user, Carta carta) {
+        user = userRepositorio.findById(user.getId()).orElse(null);
+        if (user != null && carta != null) {
+            carta.setIsDebut(true);
+            userRepositorio.save(user);
+        } else {
+            try {
+                throw new NoSuchElementException("Usuario no encontrado");
+            } catch (NoSuchElementException e) {
+                // Maneja la excepción NoSuchElementException
+               logger.error("Error al asignar la carta al usuario: " + e.getMessage());
+            }
+        }
+    }
     public Usuario findById(Long id) {
         return userRepositorio.findById(id).orElseThrow(() -> new NoSuchElementException("Usuario no encontrado"));
     }

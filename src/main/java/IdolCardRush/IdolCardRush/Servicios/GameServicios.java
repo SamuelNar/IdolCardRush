@@ -14,6 +14,7 @@ import org.springframework.transaction.annotation.Transactional;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
+import IdolCardRush.IdolCardRush.Entidades.Carta;
 import IdolCardRush.IdolCardRush.Entidades.Usuario;
 import IdolCardRush.IdolCardRush.Repositorio.UserRepositorio;
 
@@ -21,6 +22,8 @@ import IdolCardRush.IdolCardRush.Repositorio.UserRepositorio;
 public class GameServicios {
     @Autowired
     UserRepositorio userRepositorio;
+    @Autowired
+    CardServicios cardServicios;
     public List<Map<String, Object>> obtenerCartasJuego(String nomArchivo) throws Exception {
         ObjectMapper mapper = new ObjectMapper();
         File file = new File(nomArchivo);
@@ -50,12 +53,17 @@ public class GameServicios {
         }
     }
     @Transactional
-    public void trabajo (Usuario user){
+    public void trabajo (Usuario user, List<Carta> cartas){
         Random random = new Random();
-        int moneyWork = random.nextInt(11) + 50;  
+        cartas = cardServicios.obtenerCartasPorDebut(user);
+        if (cartas.size() == 0){
+            System.out.println("Necesita debutar una carta primero");
+        }else{
+            int moneyWork = random.nextInt(11) + 50;  
         int UserMoney = user.getMoney();
         user.setMoney(UserMoney + moneyWork);
         userRepositorio.save(user);       
+        }        
     }
 
 }
