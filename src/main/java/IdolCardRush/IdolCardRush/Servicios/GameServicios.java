@@ -18,6 +18,7 @@ import IdolCardRush.IdolCardRush.Entidades.Carta;
 import IdolCardRush.IdolCardRush.Entidades.Usuario;
 import IdolCardRush.IdolCardRush.Repositorio.UserRepositorio;
 
+
 @Service
 public class GameServicios {
     @Autowired
@@ -30,6 +31,7 @@ public class GameServicios {
         return mapper.readValue(file, new TypeReference<List<Map<String, Object>>>() {
         });
     }
+
 
     public List<Map<String, Object>> obtenerPreguntasJuego(String nomArchivo) throws Exception {
         try {
@@ -52,6 +54,7 @@ public class GameServicios {
             return null;
         }
     }
+
     @Transactional
     public void trabajo (Usuario user, List<Carta> cartas){
         Random random = new Random();
